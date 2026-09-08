@@ -1,70 +1,14 @@
 {
-  "last_updated": "2026-09-07T12:08:32.009035",
+  "last_updated": "2026-09-08T00:10:40.702030",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
     {
-      "league": "Futbol > Turkey > U19 Ligi",
-      "home": "Göztepe U19",
-      "away": "Gazisehir Gaziantep FK U19",
-      "time": "16:00",
-      "date": "07.09.2026",
-      "odds": "MS1: 1.30 | X: 4.80 | MS2: 6.50"
-    },
-    {
-      "league": "Futbol > Turkey > U19 Ligi",
-      "home": "Çaykur Rizespor U19",
-      "away": "Alanyaspor U19",
-      "time": "16:00",
-      "date": "07.09.2026",
-      "odds": "MS1: 2.18 | X: 3.25 | MS2: 2.75"
-    },
-    {
       "league": "Futbol > Turkey > 1. Lig",
-      "home": "Erokspor",
-      "away": "Kayserispor",
-      "time": "17:00",
-      "date": "07.09.2026",
-      "odds": "MS1: 2.30 | X: 3.20 | MS2: 2.70"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "İstanbulspor",
-      "away": "76 Igdir Belediyespor",
-      "time": "17:00",
-      "date": "07.09.2026",
-      "odds": "MS1: 2.95 | X: 3.25 | MS2: 2.10"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Çaykur Rizespor",
-      "away": "Alanyaspor",
+      "home": "Sarıyer S.K.",
+      "away": "Bandirmaspor",
       "time": "20:00",
-      "date": "07.09.2026",
-      "odds": "MS1: 1.86 | X: 3.45 | MS2: 4.20"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Göztepe",
-      "away": "Gaziantep BŞB",
-      "time": "20:00",
-      "date": "07.09.2026",
-      "odds": "MS1: 1.88 | X: 3.55 | MS2: 4.00"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Mardin Buyuksehir Basak Spor",
-      "away": "Bodrumspor",
-      "time": "20:00",
-      "date": "07.09.2026",
-      "odds": "MS1: 1.79 | X: 3.40 | MS2: 3.75"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Manisa Futbol Kulubu",
-      "away": "Bursaspor",
-      "time": "20:00",
-      "date": "07.09.2026",
-      "odds": "MS1: 4.20 | X: 3.50 | MS2: 1.68"
+      "date": "11.09.2026",
+      "odds": "MS1: 2.16 | X: 3.05 | MS2: 3.05"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -73,14 +17,6 @@
       "time": "20:00",
       "date": "11.09.2026",
       "odds": "MS1: 1.28 | X: 5.10 | MS2: 9.50"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Sarıyer S.K.",
-      "away": "Bandirmaspor",
-      "time": "20:00",
-      "date": "11.09.2026",
-      "odds": "MS1: 2.16 | X: 3.05 | MS2: 3.05"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -96,7 +32,7 @@
       "away": "Çorum Belediyespor",
       "time": "17:00",
       "date": "12.09.2026",
-      "odds": "MS1: 1.95 | X: 3.40 | MS2: 3.85"
+      "odds": "MS1: 2.04 | X: 3.25 | MS2: 3.45"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -104,7 +40,23 @@
       "away": "Göztepe",
       "time": "20:00",
       "date": "12.09.2026",
-      "odds": "MS1: 2.50 | X: 3.10 | MS2: 2.90"
+      "odds": "MS1: 2.43 | X: 3.15 | MS2: 3.00"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Bodrumspor",
+      "away": "Batman Petrolspor",
+      "time": "20:00",
+      "date": "12.09.2026",
+      "odds": "MS1: 2.25 | X: 3.05 | MS2: 2.85"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Ümraniyespor",
+      "away": "Antalyaspor",
+      "time": "20:00",
+      "date": "12.09.2026",
+      "odds": "MS1: 3.35 | X: 3.10 | MS2: 2.00"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -112,7 +64,7 @@
       "away": "Trabzonspor",
       "time": "20:00",
       "date": "12.09.2026",
-      "odds": "MS1: 3.10 | X: 3.45 | MS2: 2.18"
+      "odds": "MS1: 3.30 | X: 3.45 | MS2: 2.08"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -128,7 +80,15 @@
       "away": "Kocaelispor",
       "time": "20:00",
       "date": "13.09.2026",
-      "odds": "MS1: 1.22 | X: 6.10 | MS2: 12.50"
+      "odds": "MS1: 1.18 | X: 6.25 | MS2: 13.00"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Gaziantep BŞB",
+      "away": "Fenerbahçe",
+      "time": "20:00",
+      "date": "14.09.2026",
+      "odds": "MS1: 5.80 | X: 4.25 | MS2: 1.52"
     }
   ]
 }

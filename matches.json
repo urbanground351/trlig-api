@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T00:10:40.702030",
+  "last_updated": "2026-09-08T12:09:14.370679",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
     {
@@ -32,7 +32,7 @@
       "away": "Çorum Belediyespor",
       "time": "17:00",
       "date": "12.09.2026",
-      "odds": "MS1: 2.04 | X: 3.25 | MS2: 3.45"
+      "odds": "MS1: 2.08 | X: 3.30 | MS2: 3.50"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -40,7 +40,7 @@
       "away": "Göztepe",
       "time": "20:00",
       "date": "12.09.2026",
-      "odds": "MS1: 2.43 | X: 3.15 | MS2: 3.00"
+      "odds": "MS1: 2.25 | X: 3.20 | MS2: 3.25"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -80,7 +80,15 @@
       "away": "Kocaelispor",
       "time": "20:00",
       "date": "13.09.2026",
-      "odds": "MS1: 1.18 | X: 6.25 | MS2: 13.00"
+      "odds": "MS1: 1.20 | X: 6.50 | MS2: 13.00"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Amed Sportif Faaliyetler",
+      "away": "İstanbul Büyükşehir Belediyespor",
+      "time": "20:00",
+      "date": "13.09.2026",
+      "odds": "MS1: 2.55 | X: 3.50 | MS2: 2.55"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",

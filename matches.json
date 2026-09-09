@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-09-08T12:09:14.370679",
+  "last_updated": "2026-09-09T00:10:52.355756",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Beşiktaş",
+      "away": "Erzurumspor",
+      "time": "20:00",
+      "date": "11.09.2026",
+      "odds": "MS1: 1.28 | X: 5.40 | MS2: 10.50"
+    },
     {
       "league": "Futbol > Turkey > 1. Lig",
       "home": "Sarıyer S.K.",
@@ -12,19 +20,11 @@
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
-      "home": "Beşiktaş",
-      "away": "Erzurumspor",
-      "time": "20:00",
-      "date": "11.09.2026",
-      "odds": "MS1: 1.28 | X: 5.10 | MS2: 9.50"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
       "home": "Eyüpspor",
       "away": "Çaykur Rizespor",
       "time": "17:00",
       "date": "12.09.2026",
-      "odds": "MS1: 3.60 | X: 3.45 | MS2: 2.02"
+      "odds": "MS1: 3.75 | X: 3.45 | MS2: 1.97"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -76,11 +76,27 @@
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
+      "home": "Sivasspor",
+      "away": "Muğlaspor",
+      "time": "17:00",
+      "date": "13.09.2026",
+      "odds": "MS1: 1.82 | X: 3.25 | MS2: 3.80"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "76 Igdir Belediyespor",
+      "away": "Mardin Buyuksehir Basak Spor",
+      "time": "17:00",
+      "date": "13.09.2026",
+      "odds": "MS1: 2.28 | X: 3.15 | MS2: 2.80"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
       "home": "Galatasaray",
       "away": "Kocaelispor",
       "time": "20:00",
       "date": "13.09.2026",
-      "odds": "MS1: 1.20 | X: 6.50 | MS2: 13.00"
+      "odds": "MS1: 1.20 | X: 6.00 | MS2: 12.00"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -89,6 +105,22 @@
       "time": "20:00",
       "date": "13.09.2026",
       "odds": "MS1: 2.55 | X: 3.50 | MS2: 2.55"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Fatih Karagümrük",
+      "away": "Manisa Futbol Kulubu",
+      "time": "20:00",
+      "date": "13.09.2026",
+      "odds": "MS1: 1.91 | X: 3.25 | MS2: 3.50"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Bursaspor",
+      "away": "Erokspor",
+      "time": "20:00",
+      "date": "13.09.2026",
+      "odds": "MS1: 1.70 | X: 3.60 | MS2: 4.00"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",

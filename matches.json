@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T12:08:38.378878",
+  "last_updated": "2026-09-10T00:09:18.478248",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
     {
@@ -124,11 +124,19 @@
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
+      "home": "Kayserispor",
+      "away": "İstanbulspor",
+      "time": "20:00",
+      "date": "14.09.2026",
+      "odds": "MS1: 1.53 | X: 3.75 | MS2: 5.10"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
       "home": "Gaziantep BŞB",
       "away": "Fenerbahçe",
       "time": "20:00",
       "date": "14.09.2026",
-      "odds": "MS1: 5.80 | X: 4.25 | MS2: 1.52"
+      "odds": "MS1: 5.50 | X: 4.10 | MS2: 1.57"
     }
   ]
 }

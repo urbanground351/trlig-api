@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T12:09:07.472682",
+  "last_updated": "2026-09-11T00:09:21.561077",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
     {
@@ -8,7 +8,7 @@
       "away": "Erzurumspor",
       "time": "20:00",
       "date": "11.09.2026",
-      "odds": "MS1: 1.28 | X: 5.40 | MS2: 10.50"
+      "odds": "MS1: 1.20 | X: 6.40 | MS2: 14.00"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -24,7 +24,7 @@
       "away": "Çaykur Rizespor",
       "time": "17:00",
       "date": "12.09.2026",
-      "odds": "MS1: 3.75 | X: 3.45 | MS2: 1.97"
+      "odds": "MS1: 3.95 | X: 3.50 | MS2: 1.90"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -56,7 +56,7 @@
       "away": "Antalyaspor",
       "time": "20:00",
       "date": "12.09.2026",
-      "odds": "MS1: 3.35 | X: 3.10 | MS2: 2.00"
+      "odds": "MS1: 3.05 | X: 3.10 | MS2: 2.14"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -96,7 +96,7 @@
       "away": "Kocaelispor",
       "time": "20:00",
       "date": "13.09.2026",
-      "odds": "MS1: 1.24 | X: 6.00 | MS2: 11.00"
+      "odds": "MS1: 1.27 | X: 5.75 | MS2: 10.00"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -136,7 +136,7 @@
       "away": "Fenerbahçe",
       "time": "20:00",
       "date": "14.09.2026",
-      "odds": "MS1: 5.50 | X: 4.10 | MS2: 1.57"
+      "odds": "MS1: 5.50 | X: 4.10 | MS2: 1.56"
     }
   ]
 }

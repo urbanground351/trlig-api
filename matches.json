@@ -1,22 +1,14 @@
 {
-  "last_updated": "2026-09-11T12:09:00.951636",
+  "last_updated": "2026-09-12T00:08:50.598978",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
     {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Beşiktaş",
-      "away": "Erzurumspor",
-      "time": "20:00",
-      "date": "11.09.2026",
-      "odds": "MS1: 1.21 | X: 6.00 | MS2: 11.00"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Sarıyer S.K.",
-      "away": "Bandirmaspor",
-      "time": "20:00",
-      "date": "11.09.2026",
-      "odds": "MS1: 2.16 | X: 3.05 | MS2: 3.05"
+      "league": "Futbol > Turkey > U19 Ligi",
+      "home": "Eyupspor U19",
+      "away": "Çaykur Rizespor U19",
+      "time": "13:00",
+      "date": "12.09.2026",
+      "odds": "MS1: 1.81 | X: 3.45 | MS2: 3.50"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -32,7 +24,7 @@
       "away": "Çorum Belediyespor",
       "time": "17:00",
       "date": "12.09.2026",
-      "odds": "MS1: 2.08 | X: 3.30 | MS2: 3.50"
+      "odds": "MS1: 2.00 | X: 3.45 | MS2: 3.60"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -72,7 +64,7 @@
       "away": "Kasımpaşa",
       "time": "17:00",
       "date": "13.09.2026",
-      "odds": "MS1: 2.35 | X: 3.25 | MS2: 3.00"
+      "odds": "MS1: 2.38 | X: 3.20 | MS2: 3.05"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -96,7 +88,7 @@
       "away": "Kocaelispor",
       "time": "20:00",
       "date": "13.09.2026",
-      "odds": "MS1: 1.27 | X: 5.75 | MS2: 10.00"
+      "odds": "MS1: 1.26 | X: 5.40 | MS2: 9.50"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -104,7 +96,7 @@
       "away": "İstanbul Büyükşehir Belediyespor",
       "time": "20:00",
       "date": "13.09.2026",
-      "odds": "MS1: 2.55 | X: 3.50 | MS2: 2.55"
+      "odds": "MS1: 2.55 | X: 3.35 | MS2: 2.55"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -137,6 +129,14 @@
       "time": "20:00",
       "date": "14.09.2026",
       "odds": "MS1: 5.50 | X: 4.10 | MS2: 1.56"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Kasımpaşa",
+      "away": "Konyaspor",
+      "time": "20:00",
+      "date": "18.09.2026",
+      "odds": "MS1: 2.48 | X: 3.25 | MS2: 2.80"
     }
   ]
 }

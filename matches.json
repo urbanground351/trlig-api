@@ -1,30 +1,14 @@
 {
-  "last_updated": "2026-09-13T00:09:27.529323",
+  "last_updated": "2026-09-13T12:08:17.106254",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
     {
       "league": "Futbol > Turkey > U19 Ligi",
-      "home": "Galatasaray U19",
-      "away": "Kocaelispor U19",
-      "time": "13:00",
-      "date": "13.09.2026",
-      "odds": "MS1: 1.37 | X: 4.20 | MS2: 6.40"
-    },
-    {
-      "league": "Futbol > Turkey > U19 Ligi",
       "home": "Gençlerbirliği U19",
       "away": "Kasimpasa U19",
-      "time": "14:00",
+      "time": "14:03",
       "date": "13.09.2026",
-      "odds": "MS1: 1.90 | X: 3.35 | MS2: 3.25"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Futbol Ligi (W)",
-      "home": "Galatasaray SK (W)",
-      "away": "Fomget Gençlik ve Spor (W)",
-      "time": "15:00",
-      "date": "13.09.2026",
-      "odds": "MS1: 1.83 | X: 3.45 | MS2: 3.35"
+      "odds": "MS1: 1.07 | X: 8.50 | MS2: 19.00"
     },
     {
       "league": "Futbol > Turkey > 2. Lig",
@@ -32,7 +16,7 @@
       "away": "Sanliurfaspor",
       "time": "15:30",
       "date": "13.09.2026",
-      "odds": "MS1: 4.10 | X: 3.60 | MS2: 1.66"
+      "odds": "MS1: 2.80 | X: 3.55 | MS2: 2.05"
     },
     {
       "league": "Futbol > Turkey > 2. Lig",
@@ -48,7 +32,15 @@
       "away": "Inegölspor",
       "time": "16:00",
       "date": "13.09.2026",
-      "odds": "MS1: 1.70 | X: 3.65 | MS2: 3.85"
+      "odds": "MS1: 1.81 | X: 3.50 | MS2: 3.50"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Futbol Ligi (W)",
+      "home": "Galatasaray SK (W)",
+      "away": "Fomget Gençlik ve Spor (W)",
+      "time": "16:30",
+      "date": "13.09.2026",
+      "odds": "MS1: 1.83 | X: 3.45 | MS2: 3.35"
     },
     {
       "league": "Futbol > Turkey > 2. Lig",
@@ -56,7 +48,7 @@
       "away": "Isparta 32 Spor",
       "time": "16:30",
       "date": "13.09.2026",
-      "odds": "MS1: 2.00 | X: 3.35 | MS2: 3.10"
+      "odds": "MS1: 1.60 | X: 3.65 | MS2: 4.40"
     },
     {
       "league": "Futbol > Turkey > 2. Lig",
@@ -64,7 +56,7 @@
       "away": "Ankaragücü",
       "time": "16:30",
       "date": "13.09.2026",
-      "odds": "MS1: 2.60 | X: 3.20 | MS2: 2.30"
+      "odds": "MS1: 2.63 | X: 3.10 | MS2: 2.38"
     },
     {
       "league": "Futbol > Turkey > 2. Lig",
@@ -104,7 +96,7 @@
       "away": "Trabzon Karadenizspor AS",
       "time": "19:00",
       "date": "13.09.2026",
-      "odds": "MS1: 2.63 | X: 3.25 | MS2: 2.30"
+      "odds": "MS1: 2.40 | X: 3.25 | MS2: 2.50"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -168,7 +160,7 @@
       "away": "Alanyaspor",
       "time": "17:00",
       "date": "19.09.2026",
-      "odds": "MS1: 2.30 | X: 3.10 | MS2: 3.25"
+      "odds": "MS1: 2.25 | X: 3.15 | MS2: 3.25"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",

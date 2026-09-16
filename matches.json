@@ -1,22 +1,14 @@
 {
-  "last_updated": "2026-09-16T00:09:13.505888",
+  "last_updated": "2026-09-16T12:08:48.543225",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
     {
       "league": "Futbol > Turkey > FA Kupası",
-      "home": "Galata SK",
-      "away": "Yalova Yesilovaspor",
-      "time": "15:00",
+      "home": "Kirikkale FK",
+      "away": "Kirsehir Belediye Spor",
+      "time": "19:00",
       "date": "16.09.2026",
-      "odds": "MS1: 2.20 | X: 3.30 | MS2: 2.80"
-    },
-    {
-      "league": "Futbol > Turkey > FA Kupası",
-      "home": "Inkilapspor",
-      "away": "Tuzlaspor",
-      "time": "15:00",
-      "date": "16.09.2026",
-      "odds": "MS1: 2.48 | X: 3.00 | MS2: 2.65"
+      "odds": "MS1: 2.10 | X: 3.10 | MS2: 3.05"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",

@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-09-15T12:08:35.959180",
+  "last_updated": "2026-09-16T00:09:13.505888",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
+    {
+      "league": "Futbol > Turkey > FA Kupası",
+      "home": "Galata SK",
+      "away": "Yalova Yesilovaspor",
+      "time": "15:00",
+      "date": "16.09.2026",
+      "odds": "MS1: 2.20 | X: 3.30 | MS2: 2.80"
+    },
+    {
+      "league": "Futbol > Turkey > FA Kupası",
+      "home": "Inkilapspor",
+      "away": "Tuzlaspor",
+      "time": "15:00",
+      "date": "16.09.2026",
+      "odds": "MS1: 2.48 | X: 3.00 | MS2: 2.65"
+    },
     {
       "league": "Futbol > Turkey > 1. Lig",
       "home": "Bandirmaspor",
@@ -32,7 +48,7 @@
       "away": "Alanyaspor",
       "time": "17:00",
       "date": "19.09.2026",
-      "odds": "MS1: 2.17 | X: 3.20 | MS2: 3.45"
+      "odds": "MS1: 2.15 | X: 3.25 | MS2: 3.45"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -76,6 +92,22 @@
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
+      "home": "Pendikspor",
+      "away": "Bodrumspor",
+      "time": "17:00",
+      "date": "20.09.2026",
+      "odds": "MS1: 2.05 | X: 3.25 | MS2: 3.10"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Manisa Futbol Kulubu",
+      "away": "İstanbulspor",
+      "time": "17:00",
+      "date": "20.09.2026",
+      "odds": "MS1: 1.94 | X: 3.40 | MS2: 3.25"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
       "home": "Fenerbahçe",
       "away": "Eyüpspor",
       "time": "17:00",
@@ -97,6 +129,22 @@
       "time": "20:00",
       "date": "20.09.2026",
       "odds": "MS1: 4.50 | X: 3.80 | MS2: 1.72"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Mardin Buyuksehir Basak Spor",
+      "away": "Kayserispor",
+      "time": "20:00",
+      "date": "20.09.2026",
+      "odds": "MS1: 2.70 | X: 3.10 | MS2: 2.38"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Antalyaspor",
+      "away": "Belediye Vanspor",
+      "time": "20:00",
+      "date": "20.09.2026",
+      "odds": "MS1: 1.50 | X: 3.85 | MS2: 5.20"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",

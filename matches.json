@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-09-16T12:08:48.543225",
+  "last_updated": "2026-09-17T00:08:48.264417",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
-    {
-      "league": "Futbol > Turkey > FA Kupası",
-      "home": "Kirikkale FK",
-      "away": "Kirsehir Belediye Spor",
-      "time": "19:00",
-      "date": "16.09.2026",
-      "odds": "MS1: 2.10 | X: 3.10 | MS2: 3.05"
-    },
     {
       "league": "Futbol > Turkey > 1. Lig",
       "home": "Bandirmaspor",
@@ -64,7 +56,7 @@
       "away": "Bursaspor",
       "time": "20:00",
       "date": "19.09.2026",
-      "odds": "MS1: 3.05 | X: 3.15 | MS2: 2.10"
+      "odds": "MS1: 2.85 | X: 3.10 | MS2: 2.23"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -112,7 +104,7 @@
       "away": "Samsunspor",
       "time": "17:00",
       "date": "20.09.2026",
-      "odds": "MS1: 2.55 | X: 3.35 | MS2: 2.70"
+      "odds": "MS1: 2.60 | X: 3.30 | MS2: 2.65"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -120,7 +112,7 @@
       "away": "Beşiktaş",
       "time": "20:00",
       "date": "20.09.2026",
-      "odds": "MS1: 4.50 | X: 3.80 | MS2: 1.72"
+      "odds": "MS1: 4.50 | X: 3.95 | MS2: 1.70"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",

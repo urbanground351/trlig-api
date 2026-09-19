@@ -1,30 +1,14 @@
 {
-  "last_updated": "2026-09-18T12:08:16.854078",
+  "last_updated": "2026-09-19T00:09:08.508893",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
     {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Bandirmaspor",
-      "away": "Ümraniyespor",
-      "time": "16:00",
-      "date": "18.09.2026",
-      "odds": "MS1: 1.79 | X: 3.35 | MS2: 3.85"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Kasımpaşa",
-      "away": "Konyaspor",
-      "time": "20:00",
-      "date": "18.09.2026",
-      "odds": "MS1: 2.48 | X: 3.25 | MS2: 2.85"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Muğlaspor",
-      "away": "76 Igdir Belediyespor",
-      "time": "20:00",
-      "date": "18.09.2026",
-      "odds": "MS1: 2.88 | X: 3.05 | MS2: 2.25"
+      "league": "Futbol > Turkey > U19 Ligi",
+      "home": "Kocaelispor U19",
+      "away": "Gazisehir Gaziantep FK U19",
+      "time": "13:00",
+      "date": "19.09.2026",
+      "odds": "MS1: 1.65 | X: 3.55 | MS2: 4.20"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -41,6 +25,22 @@
       "time": "17:00",
       "date": "19.09.2026",
       "odds": "MS1: 2.16 | X: 3.20 | MS2: 3.40"
+    },
+    {
+      "league": "Futbol > Turkey > 2. Lig",
+      "home": "Menemen Belediyespor",
+      "away": "Ankaraspor",
+      "time": "19:00",
+      "date": "19.09.2026",
+      "odds": "MS1: 5.30 | X: 4.60 | MS2: 1.40"
+    },
+    {
+      "league": "Futbol > Turkey > 2. Lig",
+      "home": "Ankaragücü",
+      "away": "Serik Belediyespor",
+      "time": "19:00",
+      "date": "19.09.2026",
+      "odds": "MS1: 1.73 | X: 3.30 | MS2: 4.10"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -72,7 +72,7 @@
       "away": "Galatasaray",
       "time": "20:00",
       "date": "19.09.2026",
-      "odds": "MS1: 3.25 | X: 3.85 | MS2: 2.02"
+      "odds": "MS1: 2.88 | X: 3.80 | MS2: 2.18"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -96,7 +96,7 @@
       "away": "Eyüpspor",
       "time": "17:00",
       "date": "20.09.2026",
-      "odds": "MS1: 1.18 | X: 6.40 | MS2: 12.50"
+      "odds": "MS1: 1.15 | X: 7.00 | MS2: 14.00"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -136,7 +136,7 @@
       "away": "Çaykur Rizespor",
       "time": "20:00",
       "date": "20.09.2026",
-      "odds": "MS1: 2.50 | X: 3.40 | MS2: 2.70"
+      "odds": "MS1: 2.43 | X: 3.40 | MS2: 2.80"
     }
   ]
 }

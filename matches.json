@@ -1,5 +1,14 @@
 {
-  "last_updated": "2026-09-23T00:09:18.481540",
+  "last_updated": "2026-09-23T12:08:47.381951",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
-  "matches": []
+  "matches": [
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Süper Lig 2026/2027",
+      "away": "Deplasman",
+      "time": "13:00",
+      "date": "23.05.2027",
+      "odds": "Oran Yok"
+    }
+  ]
 }

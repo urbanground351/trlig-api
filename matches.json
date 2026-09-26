@@ -1,14 +1,22 @@
 {
-  "last_updated": "2026-09-26T00:08:43.576322",
+  "last_updated": "2026-09-26T12:07:59.855871",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
     {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Süper Lig 2026/2027",
-      "away": "Deplasman",
-      "time": "13:00",
-      "date": "23.05.2027",
-      "odds": "Oran Yok"
+      "league": "Futbol > Turkey > 2. Lig",
+      "home": "Ankaraspor",
+      "away": "Somaspor",
+      "time": "15:30",
+      "date": "26.09.2026",
+      "odds": "MS1: 1.86 | X: 2.85 | MS2: 4.25"
+    },
+    {
+      "league": "Futbol > Turkey > 2. Lig",
+      "home": "Orduspor",
+      "away": "Kahramanmaraş İstiklal Spor",
+      "time": "18:00",
+      "date": "26.09.2026",
+      "odds": "MS1: 1.93 | X: 3.15 | MS2: 3.45"
     }
   ]
 }

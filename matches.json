@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-09-29T17:28:26.031538",
+  "last_updated": "2026-09-30T03:33:09.635631",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
     {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Süper Lig 2026/2027",
-      "away": "Deplasman",
-      "time": "13:00",
-      "date": "23.05.2027",
-      "odds": "Oran Yok"
+      "league": "Futbol > Turkey > U19 Ligi",
+      "home": "Manisa Büyükşehir Belediyespor U19",
+      "away": "Bucaspor U19",
+      "time": "11:00",
+      "date": "30.09.2026",
+      "odds": "MS1: 1.38 | X: 4.10 | MS2: 6.25"
     }
   ]
 }

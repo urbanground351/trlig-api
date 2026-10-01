@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-09-30T17:26:16.965648",
+  "last_updated": "2026-10-01T03:38:14.060694",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
     {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Süper Lig 2026/2027",
-      "away": "Deplasman",
-      "time": "13:00",
-      "date": "23.05.2027",
-      "odds": "Oran Yok"
+      "league": "Futbol > Turkey > 2. Lig",
+      "home": "Trabzon Karadenizspor AS",
+      "away": "Serik Belediyespor",
+      "time": "14:30",
+      "date": "03.10.2026",
+      "odds": "MS1: 2.70 | X: 3.20 | MS2: 2.28"
     }
   ]
 }

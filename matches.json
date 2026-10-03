@@ -1,71 +1,7 @@
 {
-  "last_updated": "2026-10-03T03:22:14.536013",
+  "last_updated": "2026-10-03T15:34:17.394009",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
-    {
-      "league": "Futbol > Turkey > 2. Lig",
-      "home": "Trabzon Karadenizspor AS",
-      "away": "Serik Belediyespor",
-      "time": "14:30",
-      "date": "03.10.2026",
-      "odds": "MS1: 2.70 | X: 3.20 | MS2: 2.28"
-    },
-    {
-      "league": "Futbol > Turkey > 3. Ligi",
-      "home": "Silifke Belediyespor",
-      "away": "Niğde Belediyespor",
-      "time": "15:00",
-      "date": "03.10.2026",
-      "odds": "MS1: 2.02 | X: 3.15 | MS2: 2.95"
-    },
-    {
-      "league": "Futbol > Turkey > 3. Ligi",
-      "home": "Etimesgut Belediyespor",
-      "away": "Utaş Uşakspor",
-      "time": "15:00",
-      "date": "03.10.2026",
-      "odds": "MS1: 1.24 | X: 4.50 | MS2: 8.50"
-    },
-    {
-      "league": "Futbol > Turkey > 3. Ligi",
-      "home": "Kepez Belediyespor",
-      "away": "Karşıyaka",
-      "time": "15:00",
-      "date": "03.10.2026",
-      "odds": "MS1: 3.00 | X: 3.15 | MS2: 2.00"
-    },
-    {
-      "league": "Futbol > Turkey > 3. Ligi",
-      "home": "Galata SK",
-      "away": "Beykoz Ishakli SF",
-      "time": "15:30",
-      "date": "03.10.2026",
-      "odds": "MS1: 2.08 | X: 3.00 | MS2: 3.00"
-    },
-    {
-      "league": "Futbol > Turkey > 3. Ligi",
-      "home": "Yalova Yesilovaspor",
-      "away": "Bulvarspor",
-      "time": "15:30",
-      "date": "03.10.2026",
-      "odds": "MS1: 2.06 | X: 2.95 | MS2: 3.00"
-    },
-    {
-      "league": "Futbol > Turkey > 3. Ligi",
-      "home": "Silivrispor",
-      "away": "Karadeniz Eregli",
-      "time": "15:30",
-      "date": "03.10.2026",
-      "odds": "MS1: 2.40 | X: 3.00 | MS2: 2.48"
-    },
-    {
-      "league": "Futbol > Turkey > 3. Ligi",
-      "home": "Inkilapspor",
-      "away": "Tokat Beledi̇ye Plevne Spor",
-      "time": "15:30",
-      "date": "03.10.2026",
-      "odds": "MS1: 2.55 | X: 3.00 | MS2: 2.35"
-    },
     {
       "league": "Futbol > Turkey > 3. Ligi",
       "home": "Altay Izmir",
@@ -89,6 +25,30 @@
       "time": "20:00",
       "date": "09.10.2026",
       "odds": "MS1: 1.25 | X: 6.00 | MS2: 10.50"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Gençlerbirliği",
+      "away": "Amed Sportif Faaliyetler",
+      "time": "13:30",
+      "date": "10.10.2026",
+      "odds": "MS1: 2.50 | X: 3.35 | MS2: 2.70"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Samsunspor",
+      "away": "Trabzonspor",
+      "time": "16:00",
+      "date": "10.10.2026",
+      "odds": "MS1: 3.45 | X: 3.65 | MS2: 2.00"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Alanyaspor",
+      "away": "Erzurumspor",
+      "time": "16:00",
+      "date": "10.10.2026",
+      "odds": "MS1: 2.00 | X: 3.20 | MS2: 3.90"
     }
   ]
 }

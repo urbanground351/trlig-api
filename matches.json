@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-10-04T16:18:19.399242",
+  "last_updated": "2026-10-05T03:34:37.705055",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
-    {
-      "league": "Futbol > Turkey > 2. Lig",
-      "home": "Ankaragücü",
-      "away": "Inegölspor",
-      "time": "19:03",
-      "date": "04.10.2026",
-      "odds": "MS1: 1.16 | X: 5.80 | MS2: 13.00"
-    },
     {
       "league": "Futbol > Turkey > 1. Lig",
       "home": "Bodrumspor",
@@ -28,11 +20,27 @@
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
+      "home": "Ümraniyespor",
+      "away": "Sarıyer S.K.",
+      "time": "20:00",
+      "date": "09.10.2026",
+      "odds": "MS1: 2.70 | X: 3.00 | MS2: 2.40"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
       "home": "Galatasaray",
       "away": "Kasımpaşa",
       "time": "20:00",
       "date": "09.10.2026",
       "odds": "MS1: 1.24 | X: 6.00 | MS2: 11.00"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Belediye Vanspor",
+      "away": "Bandirmaspor",
+      "time": "20:00",
+      "date": "09.10.2026",
+      "odds": "MS1: 2.85 | X: 3.15 | MS2: 2.23"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -88,7 +96,7 @@
       "away": "Kocaelispor",
       "time": "19:00",
       "date": "11.10.2026",
-      "odds": "MS1: 1.38 | X: 4.70 | MS2: 8.00"
+      "odds": "MS1: 1.30 | X: 5.10 | MS2: 9.50"
     }
   ]
 }

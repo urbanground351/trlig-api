@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T04:22:40.217935",
+  "last_updated": "2026-10-06T17:45:39.146134",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
     {
@@ -108,11 +108,27 @@
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
+      "home": "Fatih Karagümrük",
+      "away": "Muğlaspor",
+      "time": "16:00",
+      "date": "11.10.2026",
+      "odds": "MS1: 1.85 | X: 3.25 | MS2: 3.75"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
       "home": "Beşiktaş",
       "away": "Kocaelispor",
       "time": "19:00",
       "date": "11.10.2026",
       "odds": "MS1: 1.30 | X: 5.10 | MS2: 9.50"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Bursaspor",
+      "away": "Mardin Buyuksehir Basak Spor",
+      "time": "19:00",
+      "date": "11.10.2026",
+      "odds": "MS1: 1.63 | X: 3.60 | MS2: 4.40"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",

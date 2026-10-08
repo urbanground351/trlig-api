@@ -1,14 +1,22 @@
 {
-  "last_updated": "2026-10-07T18:17:45.732390",
+  "last_updated": "2026-10-08T04:02:33.231631",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
     {
       "league": "Futbol > Turkey > FA Kupası",
-      "home": "Eskişehirspor",
-      "away": "Aksehirspor",
-      "time": "20:30",
-      "date": "07.10.2026",
-      "odds": "MS1: 1.11 | X: 7.00 | MS2: 17.00"
+      "home": "Denizli İdmanyurdu Güreller SK",
+      "away": "Serik Belediyespor",
+      "time": "17:00",
+      "date": "08.10.2026",
+      "odds": "MS1: 7.00 | X: 5.00 | MS2: 1.30"
+    },
+    {
+      "league": "Futbol > Turkey > FA Kupası",
+      "home": "Orduspor 1967",
+      "away": "Karadeniz Eregli",
+      "time": "20:00",
+      "date": "08.10.2026",
+      "odds": "MS1: 1.80 | X: 3.30 | MS2: 3.85"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -40,7 +48,7 @@
       "away": "Kasımpaşa",
       "time": "20:00",
       "date": "09.10.2026",
-      "odds": "MS1: 1.22 | X: 6.25 | MS2: 11.50"
+      "odds": "MS1: 1.20 | X: 6.10 | MS2: 11.00"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",

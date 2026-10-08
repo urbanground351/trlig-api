@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-10-08T04:02:33.231631",
+  "last_updated": "2026-10-08T18:18:06.053512",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
     {
       "league": "Futbol > Turkey > FA Kupası",
-      "home": "Denizli İdmanyurdu Güreller SK",
-      "away": "Serik Belediyespor",
-      "time": "17:00",
-      "date": "08.10.2026",
-      "odds": "MS1: 7.00 | X: 5.00 | MS2: 1.30"
-    },
-    {
-      "league": "Futbol > Turkey > FA Kupası",
       "home": "Orduspor 1967",
       "away": "Karadeniz Eregli",
-      "time": "20:00",
+      "time": "20:01",
       "date": "08.10.2026",
-      "odds": "MS1: 1.80 | X: 3.30 | MS2: 3.85"
+      "odds": "MS1: 0.00 | X: 21.00 | MS2: 0.00"
+    },
+    {
+      "league": "Futbol > Turkey > U19 Ligi",
+      "home": "Galatasaray U19",
+      "away": "Kasimpasa U19",
+      "time": "13:00",
+      "date": "09.10.2026",
+      "odds": "MS1: 1.37 | X: 4.35 | MS2: 6.00"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -72,7 +72,7 @@
       "away": "Trabzonspor",
       "time": "16:00",
       "date": "10.10.2026",
-      "odds": "MS1: 3.40 | X: 3.65 | MS2: 2.00"
+      "odds": "MS1: 3.45 | X: 3.70 | MS2: 1.98"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -80,7 +80,7 @@
       "away": "Erzurumspor",
       "time": "16:00",
       "date": "10.10.2026",
-      "odds": "MS1: 2.00 | X: 3.20 | MS2: 3.90"
+      "odds": "MS1: 2.00 | X: 3.20 | MS2: 3.95"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -88,7 +88,7 @@
       "away": "Erokspor",
       "time": "19:00",
       "date": "10.10.2026",
-      "odds": "MS1: 3.10 | X: 3.35 | MS2: 2.00"
+      "odds": "MS1: 3.35 | X: 3.45 | MS2: 1.88"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -104,7 +104,7 @@
       "away": "Fenerbahçe",
       "time": "19:00",
       "date": "10.10.2026",
-      "odds": "MS1: 4.10 | X: 3.80 | MS2: 1.78"
+      "odds": "MS1: 4.90 | X: 4.00 | MS2: 1.63"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -136,7 +136,7 @@
       "away": "Kocaelispor",
       "time": "19:00",
       "date": "11.10.2026",
-      "odds": "MS1: 1.30 | X: 5.10 | MS2: 9.50"
+      "odds": "MS1: 1.30 | X: 5.20 | MS2: 9.50"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -153,6 +153,22 @@
       "time": "20:00",
       "date": "12.10.2026",
       "odds": "MS1: 4.10 | X: 3.70 | MS2: 1.82"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Bandirmaspor",
+      "away": "Sivasspor",
+      "time": "14:30",
+      "date": "13.10.2026",
+      "odds": "MS1: 2.43 | X: 3.10 | MS2: 2.60"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Sarıyer S.K.",
+      "away": "Bodrumspor",
+      "time": "17:00",
+      "date": "13.10.2026",
+      "odds": "MS1: 2.33 | X: 3.10 | MS2: 2.70"
     }
   ]
 }

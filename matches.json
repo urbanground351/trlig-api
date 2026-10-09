@@ -1,22 +1,14 @@
 {
-  "last_updated": "2026-10-08T18:18:06.053512",
+  "last_updated": "2026-10-09T04:07:33.528970",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
-    {
-      "league": "Futbol > Turkey > FA Kupası",
-      "home": "Orduspor 1967",
-      "away": "Karadeniz Eregli",
-      "time": "20:01",
-      "date": "08.10.2026",
-      "odds": "MS1: 0.00 | X: 21.00 | MS2: 0.00"
-    },
     {
       "league": "Futbol > Turkey > U19 Ligi",
       "home": "Galatasaray U19",
       "away": "Kasimpasa U19",
       "time": "13:00",
       "date": "09.10.2026",
-      "odds": "MS1: 1.37 | X: 4.35 | MS2: 6.00"
+      "odds": "MS1: 1.38 | X: 4.20 | MS2: 6.00"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",

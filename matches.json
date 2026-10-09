@@ -1,46 +1,14 @@
 {
-  "last_updated": "2026-10-09T04:07:33.528970",
+  "last_updated": "2026-10-09T17:51:21.164688",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
-    {
-      "league": "Futbol > Turkey > U19 Ligi",
-      "home": "Galatasaray U19",
-      "away": "Kasimpasa U19",
-      "time": "13:00",
-      "date": "09.10.2026",
-      "odds": "MS1: 1.38 | X: 4.20 | MS2: 6.00"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Bodrumspor",
-      "away": "Keciörengücü",
-      "time": "17:00",
-      "date": "09.10.2026",
-      "odds": "MS1: 2.35 | X: 3.15 | MS2: 2.65"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Sivasspor",
-      "away": "Pendikspor",
-      "time": "17:00",
-      "date": "09.10.2026",
-      "odds": "MS1: 2.20 | X: 3.15 | MS2: 2.88"
-    },
     {
       "league": "Futbol > Turkey > 1. Lig",
       "home": "Ümraniyespor",
       "away": "Sarıyer S.K.",
       "time": "20:00",
       "date": "09.10.2026",
-      "odds": "MS1: 2.70 | X: 3.00 | MS2: 2.40"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Galatasaray",
-      "away": "Kasımpaşa",
-      "time": "20:00",
-      "date": "09.10.2026",
-      "odds": "MS1: 1.20 | X: 6.10 | MS2: 11.00"
+      "odds": "MS1: 1.42 | X: 3.55 | MS2: 8.00"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -48,7 +16,15 @@
       "away": "Bandirmaspor",
       "time": "20:00",
       "date": "09.10.2026",
-      "odds": "MS1: 2.85 | X: 3.15 | MS2: 2.23"
+      "odds": "MS1: 2.90 | X: 2.33 | MS2: 2.90"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Galatasaray",
+      "away": "Kasımpaşa",
+      "time": "20:01",
+      "date": "09.10.2026",
+      "odds": "MS1: 1.12 | X: 6.75 | MS2: 17.00"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -56,7 +32,7 @@
       "away": "Amed Sportif Faaliyetler",
       "time": "13:30",
       "date": "10.10.2026",
-      "odds": "MS1: 2.55 | X: 3.30 | MS2: 2.55"
+      "odds": "MS1: 3.05 | X: 3.45 | MS2: 2.23"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -72,7 +48,7 @@
       "away": "Erzurumspor",
       "time": "16:00",
       "date": "10.10.2026",
-      "odds": "MS1: 2.00 | X: 3.20 | MS2: 3.95"
+      "odds": "MS1: 1.85 | X: 3.35 | MS2: 4.35"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -139,6 +115,14 @@
       "odds": "MS1: 1.63 | X: 3.60 | MS2: 4.40"
     },
     {
+      "league": "Futbol > Turkey > U19 Ligi",
+      "home": "Eyupspor U19",
+      "away": "Göztepe U19",
+      "time": "15:00",
+      "date": "12.10.2026",
+      "odds": "MS1: 2.85 | X: 3.30 | MS2: 2.08"
+    },
+    {
       "league": "Futbol > Turkey > 1. Lig",
       "home": "Eyüpspor",
       "away": "Göztepe",
@@ -152,7 +136,7 @@
       "away": "Sivasspor",
       "time": "14:30",
       "date": "13.10.2026",
-      "odds": "MS1: 2.43 | X: 3.10 | MS2: 2.60"
+      "odds": "MS1: 2.28 | X: 3.10 | MS2: 2.80"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -161,6 +145,38 @@
       "time": "17:00",
       "date": "13.10.2026",
       "odds": "MS1: 2.33 | X: 3.10 | MS2: 2.70"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Pendikspor",
+      "away": "Belediye Vanspor",
+      "time": "20:00",
+      "date": "13.10.2026",
+      "odds": "MS1: 1.50 | X: 3.95 | MS2: 5.00"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Batman Petrolspor",
+      "away": "İstanbulspor",
+      "time": "14:30",
+      "date": "14.10.2026",
+      "odds": "MS1: 1.75 | X: 3.40 | MS2: 4.00"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Antalyaspor",
+      "away": "Kayserispor",
+      "time": "20:00",
+      "date": "14.10.2026",
+      "odds": "MS1: 2.65 | X: 3.10 | MS2: 2.40"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Çorum Belediyespor",
+      "away": "Çaykur Rizespor",
+      "time": "20:00",
+      "date": "16.10.2026",
+      "odds": "MS1: 2.60 | X: 3.40 | MS2: 2.60"
     }
   ]
 }

@@ -1,78 +1,30 @@
 {
-  "last_updated": "2026-10-11T03:26:56.739049",
+  "last_updated": "2026-10-11T17:12:10.543216",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
-    {
-      "league": "Futbol > Turkey > U19 Ligi",
-      "home": "Konyaspor U19",
-      "away": "Istanbul Başakşehir U19",
-      "time": "11:00",
-      "date": "11.10.2026",
-      "odds": "MS1: 2.25 | X: 3.25 | MS2: 2.65"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Konyaspor",
-      "away": "İstanbul Büyükşehir Belediyespor",
-      "time": "13:30",
-      "date": "11.10.2026",
-      "odds": "MS1: 2.65 | X: 3.45 | MS2: 2.50"
-    },
-    {
-      "league": "Futbol > Turkey > U19 Ligi",
-      "home": "Besiktas U19",
-      "away": "Kocaelispor U19",
-      "time": "14:00",
-      "date": "11.10.2026",
-      "odds": "MS1: 1.35 | X: 4.60 | MS2: 5.80"
-    },
-    {
-      "league": "Futbol > Turkey > 3. Ligi",
-      "home": "Bulvarspor",
-      "away": "Orduspor 1967",
-      "time": "15:30",
-      "date": "11.10.2026",
-      "odds": "MS1: 2.25 | X: 3.00 | MS2: 2.63"
-    },
-    {
-      "league": "Futbol > Turkey > 3. Ligi",
-      "home": "Kucukcekmece Sinop Spor",
-      "away": "Karabuk Idmanyurdu Spor",
-      "time": "15:30",
-      "date": "11.10.2026",
-      "odds": "MS1: 1.78 | X: 3.35 | MS2: 3.45"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Gaziantep BŞB",
-      "away": "Çorum Belediyespor",
-      "time": "16:00",
-      "date": "11.10.2026",
-      "odds": "MS1: 2.48 | X: 3.35 | MS2: 2.75"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Fatih Karagümrük",
-      "away": "Muğlaspor",
-      "time": "16:00",
-      "date": "11.10.2026",
-      "odds": "MS1: 1.85 | X: 3.25 | MS2: 3.75"
-    },
     {
       "league": "Futbol > Turkey > 1. Lig",
       "home": "Beşiktaş",
       "away": "Kocaelispor",
       "time": "19:00",
       "date": "11.10.2026",
-      "odds": "MS1: 1.27 | X: 5.20 | MS2: 9.50"
+      "odds": "MS1: 1.06 | X: 9.50 | MS2: 29.00"
+    },
+    {
+      "league": "Futbol > Turkey > 2. Lig",
+      "home": "Sakaryaspor",
+      "away": "Iskenderun FK",
+      "time": "19:02",
+      "date": "11.10.2026",
+      "odds": "MS1: 1.27 | X: 4.40 | MS2: 9.00"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
       "home": "Bursaspor",
       "away": "Mardin Buyuksehir Basak Spor",
-      "time": "19:00",
+      "time": "19:02",
       "date": "11.10.2026",
-      "odds": "MS1: 1.63 | X: 3.60 | MS2: 4.40"
+      "odds": "MS1: 4.50 | X: 2.80 | MS2: 1.88"
     },
     {
       "league": "Futbol > Turkey > U19 Ligi",
@@ -88,7 +40,7 @@
       "away": "Göztepe",
       "time": "20:00",
       "date": "12.10.2026",
-      "odds": "MS1: 4.10 | X: 3.70 | MS2: 1.82"
+      "odds": "MS1: 3.90 | X: 3.60 | MS2: 1.88"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -104,7 +56,7 @@
       "away": "Bodrumspor",
       "time": "17:00",
       "date": "13.10.2026",
-      "odds": "MS1: 2.33 | X: 3.10 | MS2: 2.70"
+      "odds": "MS1: 2.05 | X: 3.15 | MS2: 3.10"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -160,7 +112,7 @@
       "away": "Çaykur Rizespor",
       "time": "20:00",
       "date": "16.10.2026",
-      "odds": "MS1: 2.60 | X: 3.40 | MS2: 2.60"
+      "odds": "MS1: 2.06 | X: 3.55 | MS2: 3.25"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -193,6 +145,30 @@
       "time": "19:00",
       "date": "17.10.2026",
       "odds": "MS1: 1.37 | X: 4.75 | MS2: 8.00"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Kasımpaşa",
+      "away": "Samsunspor",
+      "time": "13:30",
+      "date": "18.10.2026",
+      "odds": "MS1: 2.48 | X: 3.25 | MS2: 2.80"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Kocaelispor",
+      "away": "Göztepe",
+      "time": "16:00",
+      "date": "18.10.2026",
+      "odds": "MS1: 2.50 | X: 3.15 | MS2: 2.88"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "İstanbul Büyükşehir Belediyespor",
+      "away": "Gaziantep BŞB",
+      "time": "19:00",
+      "date": "18.10.2026",
+      "odds": "MS1: 1.77 | X: 3.80 | MS2: 4.25"
     }
   ]
 }

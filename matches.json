@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-10-15T02:47:39.645448",
+  "last_updated": "2026-10-15T16:08:20.889998",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Mardin Buyuksehir Basak Spor",
-      "away": "Fatih Karagümrük",
-      "time": "17:00",
-      "date": "15.10.2026",
-      "odds": "MS1: 2.04 | X: 3.10 | MS2: 3.20"
-    },
     {
       "league": "Futbol > Turkey > 1. Lig",
       "home": "Manisa Futbol Kulubu",
@@ -48,7 +40,7 @@
       "away": "Konyaspor",
       "time": "16:00",
       "date": "17.10.2026",
-      "odds": "MS1: 1.92 | X: 3.60 | MS2: 3.75"
+      "odds": "MS1: 1.93 | X: 3.55 | MS2: 3.75"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -73,6 +65,14 @@
       "time": "19:00",
       "date": "17.10.2026",
       "odds": "MS1: 1.30 | X: 5.10 | MS2: 9.50"
+    },
+    {
+      "league": "Futbol > Turkey > U19 Ligi",
+      "home": "Kocaelispor U19",
+      "away": "Göztepe U19",
+      "time": "13:00",
+      "date": "18.10.2026",
+      "odds": "MS1: 2.70 | X: 3.35 | MS2: 2.18"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",

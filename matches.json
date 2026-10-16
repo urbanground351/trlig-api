@@ -1,30 +1,14 @@
 {
-  "last_updated": "2026-10-15T16:08:20.889998",
+  "last_updated": "2026-10-16T02:44:29.935612",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Manisa Futbol Kulubu",
-      "away": "Erokspor",
-      "time": "20:00",
-      "date": "15.10.2026",
-      "odds": "MS1: 3.05 | X: 3.35 | MS2: 2.02"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Muğlaspor",
-      "away": "Bursaspor",
-      "time": "20:00",
-      "date": "15.10.2026",
-      "odds": "MS1: 4.70 | X: 3.50 | MS2: 1.61"
-    },
     {
       "league": "Futbol > Turkey > 1. Lig",
       "home": "Çorum Belediyespor",
       "away": "Çaykur Rizespor",
       "time": "20:00",
       "date": "16.10.2026",
-      "odds": "MS1: 2.06 | X: 3.60 | MS2: 3.30"
+      "odds": "MS1: 2.00 | X: 3.65 | MS2: 3.45"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -144,7 +128,7 @@
       "away": "Beşiktaş",
       "time": "20:00",
       "date": "19.10.2026",
-      "odds": "MS1: 3.00 | X: 3.70 | MS2: 2.18"
+      "odds": "MS1: 2.95 | X: 3.75 | MS2: 2.18"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -152,7 +136,7 @@
       "away": "Pendikspor",
       "time": "20:00",
       "date": "19.10.2026",
-      "odds": "MS1: 1.58 | X: 3.75 | MS2: 4.70"
+      "odds": "MS1: 1.50 | X: 3.90 | MS2: 5.20"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",

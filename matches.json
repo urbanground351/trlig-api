@@ -1,47 +1,7 @@
 {
-  "last_updated": "2026-10-17T14:48:54.406661",
+  "last_updated": "2026-10-18T02:37:26.010227",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Amed Sportif Faaliyetler",
-      "away": "Konyaspor",
-      "time": "16:00",
-      "date": "17.10.2026",
-      "odds": "MS1: 0.00 | X: 14.00 | MS2: 0.00"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Gençlerbirliği",
-      "away": "Galatasaray",
-      "time": "16:02",
-      "date": "17.10.2026",
-      "odds": "MS1: 0.00 | X: 0.00 | MS2: 0.00"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Bodrumspor",
-      "away": "Bandirmaspor",
-      "time": "19:00",
-      "date": "17.10.2026",
-      "odds": "MS1: 2.28 | X: 3.10 | MS2: 2.75"
-    },
-    {
-      "league": "Futbol > Turkey > 3. Ligi",
-      "home": "Orduspor 1967",
-      "away": "Karadeniz Eregli",
-      "time": "19:00",
-      "date": "17.10.2026",
-      "odds": "MS1: 1.52 | X: 3.65 | MS2: 4.60"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Fenerbahçe",
-      "away": "Alanyaspor",
-      "time": "19:00",
-      "date": "17.10.2026",
-      "odds": "MS1: 1.28 | X: 5.40 | MS2: 10.00"
-    },
     {
       "league": "Futbol > Turkey > U19 Ligi",
       "home": "Kocaelispor U19",
@@ -120,7 +80,7 @@
       "away": "Beşiktaş",
       "time": "20:00",
       "date": "19.10.2026",
-      "odds": "MS1: 2.60 | X: 3.60 | MS2: 2.48"
+      "odds": "MS1: 2.63 | X: 3.60 | MS2: 2.45"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -161,6 +121,14 @@
       "time": "16:00",
       "date": "24.10.2026",
       "odds": "MS1: 2.06 | X: 3.35 | MS2: 3.60"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Samsunspor",
+      "away": "Amed Sportif Faaliyetler",
+      "time": "19:00",
+      "date": "24.10.2026",
+      "odds": "MS1: 2.40 | X: 3.45 | MS2: 2.80"
     }
   ]
 }

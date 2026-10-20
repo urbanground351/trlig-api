@@ -1,31 +1,7 @@
 {
-  "last_updated": "2026-10-19T18:10:19.484107",
+  "last_updated": "2026-10-20T03:01:07.318151",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Trabzonspor",
-      "away": "Beşiktaş",
-      "time": "20:00",
-      "date": "19.10.2026",
-      "odds": "MS1: 1.67 | X: 3.30 | MS2: 4.90"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Bursaspor",
-      "away": "Pendikspor",
-      "time": "20:01",
-      "date": "19.10.2026",
-      "odds": "MS1: 1.11 | X: 6.75 | MS2: 18.00"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Erokspor",
-      "away": "Mardin Buyuksehir Basak Spor",
-      "time": "20:01",
-      "date": "19.10.2026",
-      "odds": "MS1: 0.00 | X: 0.00 | MS2: 0.00"
-    },
     {
       "league": "Futbol > Turkey > 1. Lig",
       "home": "Alanyaspor",
@@ -100,6 +76,14 @@
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
+      "home": "Beşiktaş",
+      "away": "İstanbul Büyükşehir Belediyespor",
+      "time": "19:00",
+      "date": "26.10.2026",
+      "odds": "MS1: 1.33 | X: 5.20 | MS2: 7.00"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
       "home": "Çaykur Rizespor",
       "away": "Trabzonspor",
       "time": "19:00",
@@ -108,11 +92,11 @@
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
-      "home": "Beşiktaş",
-      "away": "İstanbul Büyükşehir Belediyespor",
-      "time": "19:00",
+      "home": "Galatasaray",
+      "away": "Fenerbahçe",
+      "time": "21:30",
       "date": "26.10.2026",
-      "odds": "MS1: 1.33 | X: 5.20 | MS2: 7.00"
+      "odds": "MS1: 2.15 | X: 3.65 | MS2: 3.05"
     }
   ]
 }

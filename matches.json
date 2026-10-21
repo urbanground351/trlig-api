@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-10-20T16:11:34.504245",
+  "last_updated": "2026-10-21T02:55:46.888964",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
+    {
+      "league": "Futbol > Turkey > U19 Ligi",
+      "home": "Beykoz Anadoluspor U19",
+      "away": "Galata SK U19",
+      "time": "12:00",
+      "date": "21.10.2026",
+      "odds": "MS1: 2.70 | X: 3.45 | MS2: 2.10"
+    },
     {
       "league": "Futbol > Turkey > 1. Lig",
       "home": "Alanyaspor",
@@ -136,7 +144,7 @@
       "away": "Fenerbahçe",
       "time": "21:30",
       "date": "26.10.2026",
-      "odds": "MS1: 2.15 | X: 3.65 | MS2: 3.05"
+      "odds": "MS1: 2.10 | X: 3.60 | MS2: 3.00"
     }
   ]
 }

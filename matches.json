@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-10-21T02:55:46.888964",
+  "last_updated": "2026-10-21T16:27:02.673418",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
-    {
-      "league": "Futbol > Turkey > U19 Ligi",
-      "home": "Beykoz Anadoluspor U19",
-      "away": "Galata SK U19",
-      "time": "12:00",
-      "date": "21.10.2026",
-      "odds": "MS1: 2.70 | X: 3.45 | MS2: 2.10"
-    },
     {
       "league": "Futbol > Turkey > 1. Lig",
       "home": "Alanyaspor",
@@ -96,7 +88,7 @@
       "away": "Bodrumspor",
       "time": "16:00",
       "date": "25.10.2026",
-      "odds": "MS1: 1.95 | X: 3.25 | MS2: 3.35"
+      "odds": "MS1: 1.84 | X: 3.30 | MS2: 3.65"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -104,7 +96,7 @@
       "away": "Gençlerbirliği",
       "time": "16:00",
       "date": "25.10.2026",
-      "odds": "MS1: 1.85 | X: 3.50 | MS2: 4.20"
+      "odds": "MS1: 1.68 | X: 3.70 | MS2: 5.00"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -112,7 +104,7 @@
       "away": "Bursaspor",
       "time": "19:00",
       "date": "25.10.2026",
-      "odds": "MS1: 2.70 | X: 3.25 | MS2: 2.25"
+      "odds": "MS1: 2.95 | X: 3.30 | MS2: 2.08"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -128,7 +120,7 @@
       "away": "Trabzonspor",
       "time": "19:00",
       "date": "26.10.2026",
-      "odds": "MS1: 3.20 | X: 3.65 | MS2: 2.10"
+      "odds": "MS1: 3.35 | X: 3.70 | MS2: 2.00"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -144,7 +136,7 @@
       "away": "Fenerbahçe",
       "time": "21:30",
       "date": "26.10.2026",
-      "odds": "MS1: 2.10 | X: 3.60 | MS2: 3.00"
+      "odds": "MS1: 2.14 | X: 3.65 | MS2: 3.10"
     }
   ]
 }

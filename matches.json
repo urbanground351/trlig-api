@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T16:27:02.673418",
+  "last_updated": "2026-10-22T02:54:31.836283",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
     {
@@ -129,6 +129,14 @@
       "time": "19:00",
       "date": "26.10.2026",
       "odds": "MS1: 1.33 | X: 5.20 | MS2: 7.00"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Mardin Buyuksehir Basak Spor",
+      "away": "Manisa Futbol Kulubu",
+      "time": "20:00",
+      "date": "26.10.2026",
+      "odds": "MS1: 1.65 | X: 3.60 | MS2: 4.30"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",

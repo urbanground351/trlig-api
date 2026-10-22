@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T02:54:31.836283",
+  "last_updated": "2026-10-22T16:27:41.537598",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
     {
@@ -8,7 +8,7 @@
       "away": "Kocaelispor",
       "time": "20:00",
       "date": "23.10.2026",
-      "odds": "MS1: 1.97 | X: 3.20 | MS2: 4.10"
+      "odds": "MS1: 1.93 | X: 3.30 | MS2: 4.10"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -40,7 +40,7 @@
       "away": "Erzurumspor",
       "time": "16:00",
       "date": "24.10.2026",
-      "odds": "MS1: 2.10 | X: 3.25 | MS2: 3.55"
+      "odds": "MS1: 2.08 | X: 3.25 | MS2: 3.60"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -64,7 +64,7 @@
       "away": "Trabzon Karadenizspor AS",
       "time": "19:00",
       "date": "24.10.2026",
-      "odds": "MS1: 1.68 | X: 3.40 | MS2: 4.35"
+      "odds": "MS1: 1.58 | X: 3.65 | MS2: 4.60"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -96,7 +96,7 @@
       "away": "Gençlerbirliği",
       "time": "16:00",
       "date": "25.10.2026",
-      "odds": "MS1: 1.68 | X: 3.70 | MS2: 5.00"
+      "odds": "MS1: 1.84 | X: 3.45 | MS2: 4.30"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -120,7 +120,7 @@
       "away": "Trabzonspor",
       "time": "19:00",
       "date": "26.10.2026",
-      "odds": "MS1: 3.35 | X: 3.70 | MS2: 2.00"
+      "odds": "MS1: 3.55 | X: 3.70 | MS2: 1.93"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -144,7 +144,7 @@
       "away": "Fenerbahçe",
       "time": "21:30",
       "date": "26.10.2026",
-      "odds": "MS1: 2.14 | X: 3.65 | MS2: 3.10"
+      "odds": "MS1: 2.14 | X: 3.75 | MS2: 3.05"
     }
   ]
 }

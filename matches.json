@@ -1,14 +1,22 @@
 {
-  "last_updated": "2026-10-23T02:57:56.713818",
+  "last_updated": "2026-10-23T16:16:57.151345",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Boluspor",
+      "away": "Belediye Vanspor",
+      "time": "20:00",
+      "date": "23.10.2026",
+      "odds": "MS1: 3.45 | X: 3.50 | MS2: 1.85"
+    },
     {
       "league": "Futbol > Turkey > 1. Lig",
       "home": "Alanyaspor",
       "away": "Kocaelispor",
       "time": "20:00",
       "date": "23.10.2026",
-      "odds": "MS1: 1.93 | X: 3.30 | MS2: 4.10"
+      "odds": "MS1: 1.93 | X: 3.25 | MS2: 4.20"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -80,7 +88,7 @@
       "away": "Erokspor",
       "time": "13:30",
       "date": "25.10.2026",
-      "odds": "MS1: 2.43 | X: 3.20 | MS2: 2.55"
+      "odds": "MS1: 2.60 | X: 3.25 | MS2: 2.35"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -128,7 +136,7 @@
       "away": "İstanbul Büyükşehir Belediyespor",
       "time": "19:00",
       "date": "26.10.2026",
-      "odds": "MS1: 1.32 | X: 5.60 | MS2: 8.00"
+      "odds": "MS1: 1.35 | X: 5.30 | MS2: 7.50"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",

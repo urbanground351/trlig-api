@@ -1,22 +1,30 @@
 {
-  "last_updated": "2026-10-23T16:16:57.151345",
+  "last_updated": "2026-10-24T02:54:36.292811",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
     {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Boluspor",
-      "away": "Belediye Vanspor",
-      "time": "20:00",
-      "date": "23.10.2026",
-      "odds": "MS1: 3.45 | X: 3.50 | MS2: 1.85"
+      "league": "Futbol > Turkey > U19 Ligi",
+      "home": "Gazisehir Gaziantep FK U19",
+      "away": "Büyükşehir Belediye Erzurumspor U19",
+      "time": "12:00",
+      "date": "24.10.2026",
+      "odds": "MS1: 1.74 | X: 3.50 | MS2: 3.70"
     },
     {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Alanyaspor",
-      "away": "Kocaelispor",
-      "time": "20:00",
-      "date": "23.10.2026",
-      "odds": "MS1: 1.93 | X: 3.25 | MS2: 4.20"
+      "league": "Futbol > Turkey > U19 Ligi",
+      "home": "Eyupspor U19",
+      "away": "Kasimpasa U19",
+      "time": "13:00",
+      "date": "24.10.2026",
+      "odds": "MS1: 1.85 | X: 3.50 | MS2: 3.25"
+    },
+    {
+      "league": "Futbol > Turkey > 2. Lig",
+      "home": "Arnavutkoy Belediyesi Genclik VE Spor",
+      "away": "Sanliurfaspor",
+      "time": "13:00",
+      "date": "24.10.2026",
+      "odds": "MS1: 8.50 | X: 5.10 | MS2: 1.24"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -24,7 +32,7 @@
       "away": "Kasımpaşa",
       "time": "13:30",
       "date": "24.10.2026",
-      "odds": "MS1: 5.80 | X: 4.10 | MS2: 1.54"
+      "odds": "MS1: 5.25 | X: 3.75 | MS2: 1.65"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -48,7 +56,7 @@
       "away": "Erzurumspor",
       "time": "16:00",
       "date": "24.10.2026",
-      "odds": "MS1: 2.08 | X: 3.25 | MS2: 3.60"
+      "odds": "MS1: 2.38 | X: 3.10 | MS2: 3.05"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -152,7 +160,15 @@
       "away": "Fenerbahçe",
       "time": "21:30",
       "date": "26.10.2026",
-      "odds": "MS1: 2.10 | X: 3.75 | MS2: 2.90"
+      "odds": "MS1: 2.12 | X: 3.75 | MS2: 2.88"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Konyaspor",
+      "away": "Galatasaray",
+      "time": "20:00",
+      "date": "30.10.2026",
+      "odds": "MS1: 4.70 | X: 3.95 | MS2: 1.67"
     }
   ]
 }

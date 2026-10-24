@@ -1,63 +1,7 @@
 {
-  "last_updated": "2026-10-24T02:54:36.292811",
+  "last_updated": "2026-10-24T15:14:35.296006",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
-    {
-      "league": "Futbol > Turkey > U19 Ligi",
-      "home": "Gazisehir Gaziantep FK U19",
-      "away": "Büyükşehir Belediye Erzurumspor U19",
-      "time": "12:00",
-      "date": "24.10.2026",
-      "odds": "MS1: 1.74 | X: 3.50 | MS2: 3.70"
-    },
-    {
-      "league": "Futbol > Turkey > U19 Ligi",
-      "home": "Eyupspor U19",
-      "away": "Kasimpasa U19",
-      "time": "13:00",
-      "date": "24.10.2026",
-      "odds": "MS1: 1.85 | X: 3.50 | MS2: 3.25"
-    },
-    {
-      "league": "Futbol > Turkey > 2. Lig",
-      "home": "Arnavutkoy Belediyesi Genclik VE Spor",
-      "away": "Sanliurfaspor",
-      "time": "13:00",
-      "date": "24.10.2026",
-      "odds": "MS1: 8.50 | X: 5.10 | MS2: 1.24"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Eyüpspor",
-      "away": "Kasımpaşa",
-      "time": "13:30",
-      "date": "24.10.2026",
-      "odds": "MS1: 5.25 | X: 3.75 | MS2: 1.65"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Bandirmaspor",
-      "away": "76 Igdir Belediyespor",
-      "time": "13:30",
-      "date": "24.10.2026",
-      "odds": "MS1: 2.23 | X: 3.15 | MS2: 2.85"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Ümraniyespor",
-      "away": "Sivasspor",
-      "time": "13:30",
-      "date": "24.10.2026",
-      "odds": "MS1: 2.33 | X: 3.10 | MS2: 2.70"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Gaziantep BŞB",
-      "away": "Erzurumspor",
-      "time": "16:00",
-      "date": "24.10.2026",
-      "odds": "MS1: 2.38 | X: 3.10 | MS2: 3.05"
-    },
     {
       "league": "Futbol > Turkey > 1. Lig",
       "home": "Sarıyer S.K.",
@@ -75,12 +19,36 @@
       "odds": "MS1: 3.15 | X: 3.45 | MS2: 2.17"
     },
     {
+      "league": "Futbol > Turkey > 3. Ligi",
+      "home": "Karşıyaka",
+      "away": "Efeler 09 SFK",
+      "time": "19:00",
+      "date": "24.10.2026",
+      "odds": "MS1: 1.70 | X: 3.35 | MS2: 3.80"
+    },
+    {
       "league": "Futbol > Turkey > 2. Lig",
       "home": "Ankaragücü",
       "away": "Trabzon Karadenizspor AS",
       "time": "19:00",
       "date": "24.10.2026",
-      "odds": "MS1: 1.58 | X: 3.65 | MS2: 4.60"
+      "odds": "MS1: 1.57 | X: 3.60 | MS2: 4.80"
+    },
+    {
+      "league": "Futbol > Turkey > 2. Lig",
+      "home": "Sakaryaspor",
+      "away": "Erzincanspor",
+      "time": "19:00",
+      "date": "24.10.2026",
+      "odds": "MS1: 1.67 | X: 3.40 | MS2: 4.30"
+    },
+    {
+      "league": "Futbol > Turkey > 2. Lig",
+      "home": "Aliaga Futbol",
+      "away": "68 Yeni Aksaray",
+      "time": "19:00",
+      "date": "24.10.2026",
+      "odds": "MS1: 2.02 | X: 3.40 | MS2: 3.00"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -128,7 +96,7 @@
       "away": "Çorum Belediyespor",
       "time": "19:00",
       "date": "25.10.2026",
-      "odds": "MS1: 2.30 | X: 3.60 | MS2: 2.85"
+      "odds": "MS1: 2.30 | X: 3.60 | MS2: 2.80"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -160,7 +128,7 @@
       "away": "Fenerbahçe",
       "time": "21:30",
       "date": "26.10.2026",
-      "odds": "MS1: 2.12 | X: 3.75 | MS2: 2.88"
+      "odds": "MS1: 1.96 | X: 3.75 | MS2: 3.15"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -169,6 +137,22 @@
       "time": "20:00",
       "date": "30.10.2026",
       "odds": "MS1: 4.70 | X: 3.95 | MS2: 1.67"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Erzurumspor",
+      "away": "Çorum Belediyespor",
+      "time": "13:30",
+      "date": "31.10.2026",
+      "odds": "MS1: 2.70 | X: 3.30 | MS2: 2.55"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Kocaelispor",
+      "away": "Çaykur Rizespor",
+      "time": "16:00",
+      "date": "31.10.2026",
+      "odds": "MS1: 2.63 | X: 3.30 | MS2: 2.60"
     }
   ]
 }

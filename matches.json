@@ -1,55 +1,7 @@
 {
-  "last_updated": "2026-10-24T15:14:35.296006",
+  "last_updated": "2026-10-25T02:47:20.003253",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Sarıyer S.K.",
-      "away": "Fatih Karagümrük",
-      "time": "19:00",
-      "date": "24.10.2026",
-      "odds": "MS1: 2.14 | X: 3.10 | MS2: 3.05"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Samsunspor",
-      "away": "Amed Sportif Faaliyetler",
-      "time": "19:00",
-      "date": "24.10.2026",
-      "odds": "MS1: 3.15 | X: 3.45 | MS2: 2.17"
-    },
-    {
-      "league": "Futbol > Turkey > 3. Ligi",
-      "home": "Karşıyaka",
-      "away": "Efeler 09 SFK",
-      "time": "19:00",
-      "date": "24.10.2026",
-      "odds": "MS1: 1.70 | X: 3.35 | MS2: 3.80"
-    },
-    {
-      "league": "Futbol > Turkey > 2. Lig",
-      "home": "Ankaragücü",
-      "away": "Trabzon Karadenizspor AS",
-      "time": "19:00",
-      "date": "24.10.2026",
-      "odds": "MS1: 1.57 | X: 3.60 | MS2: 4.80"
-    },
-    {
-      "league": "Futbol > Turkey > 2. Lig",
-      "home": "Sakaryaspor",
-      "away": "Erzincanspor",
-      "time": "19:00",
-      "date": "24.10.2026",
-      "odds": "MS1: 1.67 | X: 3.40 | MS2: 4.30"
-    },
-    {
-      "league": "Futbol > Turkey > 2. Lig",
-      "home": "Aliaga Futbol",
-      "away": "68 Yeni Aksaray",
-      "time": "19:00",
-      "date": "24.10.2026",
-      "odds": "MS1: 2.02 | X: 3.40 | MS2: 3.00"
-    },
     {
       "league": "Futbol > Turkey > 1. Lig",
       "home": "Pendikspor",
@@ -64,7 +16,7 @@
       "away": "Erokspor",
       "time": "13:30",
       "date": "25.10.2026",
-      "odds": "MS1: 2.60 | X: 3.25 | MS2: 2.35"
+      "odds": "MS1: 2.60 | X: 3.15 | MS2: 2.40"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -80,7 +32,7 @@
       "away": "Gençlerbirliği",
       "time": "16:00",
       "date": "25.10.2026",
-      "odds": "MS1: 1.85 | X: 3.50 | MS2: 4.25"
+      "odds": "MS1: 1.84 | X: 3.50 | MS2: 4.25"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -96,7 +48,7 @@
       "away": "Çorum Belediyespor",
       "time": "19:00",
       "date": "25.10.2026",
-      "odds": "MS1: 2.30 | X: 3.60 | MS2: 2.80"
+      "odds": "MS1: 2.23 | X: 3.60 | MS2: 2.95"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -153,6 +105,14 @@
       "time": "16:00",
       "date": "31.10.2026",
       "odds": "MS1: 2.63 | X: 3.30 | MS2: 2.60"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Fenerbahçe",
+      "away": "Göztepe",
+      "time": "19:00",
+      "date": "31.10.2026",
+      "odds": "MS1: 1.34 | X: 5.25 | MS2: 8.00"
     }
   ]
 }

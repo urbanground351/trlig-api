@@ -1,22 +1,14 @@
 {
-  "last_updated": "2026-10-25T15:24:30.168565",
+  "last_updated": "2026-10-26T02:45:22.743085",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
     {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Keciörengücü",
-      "away": "Bursaspor",
-      "time": "19:00",
-      "date": "25.10.2026",
-      "odds": "MS1: 2.95 | X: 3.30 | MS2: 2.08"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Göztepe",
-      "away": "Çorum Belediyespor",
-      "time": "19:00",
-      "date": "25.10.2026",
-      "odds": "MS1: 2.23 | X: 3.60 | MS2: 2.95"
+      "league": "Futbol > Turkey > U19 Ligi",
+      "home": "Çaykur Rizespor U19",
+      "away": "Trabzonspor U19",
+      "time": "15:00",
+      "date": "26.10.2026",
+      "odds": "MS1: 5.25 | X: 4.00 | MS2: 1.46"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -24,7 +16,7 @@
       "away": "Trabzonspor",
       "time": "19:00",
       "date": "26.10.2026",
-      "odds": "MS1: 3.55 | X: 3.70 | MS2: 1.93"
+      "odds": "MS1: 3.80 | X: 3.75 | MS2: 1.85"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -57,6 +49,14 @@
       "time": "20:00",
       "date": "30.10.2026",
       "odds": "MS1: 4.70 | X: 3.95 | MS2: 1.68"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Erokspor",
+      "away": "Keciörengücü",
+      "time": "20:00",
+      "date": "30.10.2026",
+      "odds": "MS1: 1.96 | X: 3.40 | MS2: 3.20"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -105,6 +105,14 @@
       "time": "16:00",
       "date": "01.11.2026",
       "odds": "MS1: 1.93 | X: 3.75 | MS2: 3.55"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Kasımpaşa",
+      "away": "Beşiktaş",
+      "time": "19:00",
+      "date": "01.11.2026",
+      "odds": "MS1: 4.50 | X: 3.80 | MS2: 1.73"
     }
   ]
 }

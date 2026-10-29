@@ -1,22 +1,14 @@
 {
-  "last_updated": "2026-10-29T03:56:07.063336",
+  "last_updated": "2026-10-29T17:54:28.795371",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
     {
       "league": "Futbol > Turkey > FA Kupası",
-      "home": "Gençlerbirliği",
-      "away": "Sanliurfa Karakopru Belediye Spor",
-      "time": "15:30",
+      "home": "Eskişehirspor",
+      "away": "76 Igdir Belediyespor",
+      "time": "20:30",
       "date": "29.10.2026",
-      "odds": "MS1: 1.20 | X: 6.40 | MS2: 8.50"
-    },
-    {
-      "league": "Futbol > Turkey > FA Kupası",
-      "home": "Kasımpaşa",
-      "away": "Corluspor 1947",
-      "time": "18:00",
-      "date": "29.10.2026",
-      "odds": "MS1: 1.26 | X: 5.60 | MS2: 7.00"
+      "odds": "MS1: 3.70 | X: 3.65 | MS2: 1.75"
     },
     {
       "league": "Futbol > Turkey > U19 Ligi",
@@ -32,7 +24,7 @@
       "away": "Galatasaray",
       "time": "20:00",
       "date": "30.10.2026",
-      "odds": "MS1: 5.50 | X: 4.25 | MS2: 1.54"
+      "odds": "MS1: 6.25 | X: 4.50 | MS2: 1.47"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -96,7 +88,7 @@
       "away": "Göztepe",
       "time": "19:00",
       "date": "31.10.2026",
-      "odds": "MS1: 1.35 | X: 5.10 | MS2: 8.00"
+      "odds": "MS1: 1.34 | X: 5.25 | MS2: 8.00"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -108,11 +100,19 @@
     },
     {
       "league": "Futbol > Turkey > 2. Lig",
+      "home": "Ankaraspor",
+      "away": "Sebat Genclik Spor",
+      "time": "13:00",
+      "date": "01.11.2026",
+      "odds": "MS1: 2.55 | X: 3.10 | MS2: 2.40"
+    },
+    {
+      "league": "Futbol > Turkey > 2. Lig",
       "home": "Adana 1954 FK",
       "away": "Ankaragücü",
       "time": "13:00",
       "date": "01.11.2026",
-      "odds": "MS1: 2.23 | X: 3.30 | MS2: 2.70"
+      "odds": "MS1: 1.96 | X: 3.30 | MS2: 3.15"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -128,7 +128,7 @@
       "away": "Gaziantep BŞB",
       "time": "16:00",
       "date": "01.11.2026",
-      "odds": "MS1: 1.28 | X: 5.80 | MS2: 9.00"
+      "odds": "MS1: 1.27 | X: 5.60 | MS2: 8.50"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",

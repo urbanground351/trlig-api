@@ -1,22 +1,14 @@
 {
-  "last_updated": "2026-10-30T03:58:06.116175",
+  "last_updated": "2026-10-30T17:37:17.863471",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
-    {
-      "league": "Futbol > Turkey > U19 Ligi",
-      "home": "Konyaspor U19",
-      "away": "Galatasaray U19",
-      "time": "15:00",
-      "date": "30.10.2026",
-      "odds": "MS1: 4.35 | X: 3.65 | MS2: 1.61"
-    },
     {
       "league": "Futbol > Turkey > 1. Lig",
       "home": "Konyaspor",
       "away": "Galatasaray",
       "time": "20:00",
       "date": "30.10.2026",
-      "odds": "MS1: 5.80 | X: 4.35 | MS2: 1.50"
+      "odds": "MS1: 35.00 | X: 12.50 | MS2: 1.02"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -24,7 +16,7 @@
       "away": "Keciörengücü",
       "time": "20:00",
       "date": "30.10.2026",
-      "odds": "MS1: 1.96 | X: 3.40 | MS2: 3.20"
+      "odds": "MS1: 3.05 | X: 3.15 | MS2: 2.12"
     },
     {
       "league": "Futbol > Turkey > U19 Ligi",
@@ -80,7 +72,7 @@
       "away": "Göztepe",
       "time": "19:00",
       "date": "31.10.2026",
-      "odds": "MS1: 1.34 | X: 5.25 | MS2: 8.00"
+      "odds": "MS1: 1.32 | X: 5.40 | MS2: 8.50"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -120,7 +112,7 @@
       "away": "Gaziantep BŞB",
       "time": "16:00",
       "date": "01.11.2026",
-      "odds": "MS1: 1.27 | X: 5.60 | MS2: 8.50"
+      "odds": "MS1: 1.29 | X: 5.80 | MS2: 8.50"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -152,7 +144,7 @@
       "away": "Beşiktaş",
       "time": "19:00",
       "date": "01.11.2026",
-      "odds": "MS1: 5.30 | X: 4.25 | MS2: 1.56"
+      "odds": "MS1: 5.30 | X: 4.20 | MS2: 1.57"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -177,6 +169,14 @@
       "time": "20:00",
       "date": "02.11.2026",
       "odds": "MS1: 1.43 | X: 4.00 | MS2: 6.00"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Gaziantep BŞB",
+      "away": "Kasımpaşa",
+      "time": "20:00",
+      "date": "06.11.2026",
+      "odds": "MS1: 2.70 | X: 3.30 | MS2: 2.55"
     }
   ]
 }

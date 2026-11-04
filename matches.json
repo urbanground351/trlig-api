@@ -1,39 +1,7 @@
 {
-  "last_updated": "2026-11-04T04:27:46.795809",
+  "last_updated": "2026-11-04T19:14:08.726703",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
-    {
-      "league": "Futbol > Turkey > FA Kupası",
-      "home": "Fethiyespor",
-      "away": "Eyüpspor",
-      "time": "13:00",
-      "date": "04.11.2026",
-      "odds": "Oran Yok"
-    },
-    {
-      "league": "Futbol > Turkey > 2. Lig",
-      "home": "Somaspor",
-      "away": "Sebat Genclik Spor",
-      "time": "15:00",
-      "date": "04.11.2026",
-      "odds": "MS1: 4.70 | X: 3.80 | MS2: 1.53"
-    },
-    {
-      "league": "Futbol > Turkey > U19 Ligi",
-      "home": "Bursaspor U19",
-      "away": "Istanbulspor U19",
-      "time": "18:00",
-      "date": "04.11.2026",
-      "odds": "MS1: 1.62 | X: 3.40 | MS2: 4.60"
-    },
-    {
-      "league": "Futbol > Turkey > U19 Ligi",
-      "home": "Fatih Karagumruk U19",
-      "away": "Bandirmaspor U19",
-      "time": "18:00",
-      "date": "04.11.2026",
-      "odds": "MS1: 1.65 | X: 3.75 | MS2: 3.90"
-    },
     {
       "league": "Futbol > Turkey > U19 Ligi",
       "home": "Gazisehir Gaziantep FK U19",
@@ -41,14 +9,6 @@
       "time": "13:00",
       "date": "06.11.2026",
       "odds": "MS1: 2.25 | X: 3.25 | MS2: 2.63"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Gaziantep BŞB",
-      "away": "Kasımpaşa",
-      "time": "20:00",
-      "date": "06.11.2026",
-      "odds": "MS1: 2.60 | X: 3.25 | MS2: 2.70"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -68,11 +28,27 @@
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
-      "home": "Eyüpspor",
-      "away": "Kocaelispor",
-      "time": "13:30",
+      "home": "Gaziantep BŞB",
+      "away": "Kasımpaşa",
+      "time": "20:00",
+      "date": "06.11.2026",
+      "odds": "MS1: 2.60 | X: 3.25 | MS2: 2.70"
+    },
+    {
+      "league": "Futbol > Turkey > U19 Ligi",
+      "home": "Samsunspor U19",
+      "away": "Konyaspor U19",
+      "time": "13:00",
       "date": "07.11.2026",
-      "odds": "MS1: 3.75 | X: 3.35 | MS2: 1.91"
+      "odds": "MS1: 1.55 | X: 3.80 | MS2: 4.60"
+    },
+    {
+      "league": "Futbol > Turkey > U19 Ligi",
+      "home": "Eyupspor U19",
+      "away": "Kocaelispor U19",
+      "time": "13:00",
+      "date": "07.11.2026",
+      "odds": "MS1: 1.83 | X: 3.60 | MS2: 3.30"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -89,6 +65,14 @@
       "time": "13:30",
       "date": "07.11.2026",
       "odds": "MS1: 1.60 | X: 3.75 | MS2: 4.40"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Eyüpspor",
+      "away": "Kocaelispor",
+      "time": "13:30",
+      "date": "07.11.2026",
+      "odds": "MS1: 3.75 | X: 3.35 | MS2: 1.91"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -152,7 +136,7 @@
       "away": "Menemen Belediyespor",
       "time": "15:00",
       "date": "08.11.2026",
-      "odds": "MS1: 3.00 | X: 3.30 | MS2: 2.07"
+      "odds": "MS1: 3.25 | X: 3.30 | MS2: 1.93"
     },
     {
       "league": "Futbol > Turkey > 2. Lig",
@@ -168,7 +152,7 @@
       "away": "Fenerbahçe",
       "time": "16:00",
       "date": "08.11.2026",
-      "odds": "MS1: 4.40 | X: 3.95 | MS2: 1.70"
+      "odds": "MS1: 4.50 | X: 3.95 | MS2: 1.70"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -200,7 +184,7 @@
       "away": "Gençlerbirliği",
       "time": "21:00",
       "date": "08.11.2026",
-      "odds": "MS1: 1.28 | X: 5.60 | MS2: 9.50"
+      "odds": "MS1: 1.26 | X: 5.80 | MS2: 10.00"
     }
   ]
 }

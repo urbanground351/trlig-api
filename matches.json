@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-11-06T04:42:47.870464",
+  "last_updated": "2026-11-06T18:46:15.673377",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
-    {
-      "league": "Futbol > Turkey > U19 Ligi",
-      "home": "Gazisehir Gaziantep FK U19",
-      "away": "Kasimpasa U19",
-      "time": "13:00",
-      "date": "06.11.2026",
-      "odds": "MS1: 1.70 | X: 3.65 | MS2: 3.75"
-    },
     {
       "league": "Futbol > Turkey > 1. Lig",
       "home": "Sarıyer S.K.",
       "away": "76 Igdir Belediyespor",
-      "time": "20:00",
+      "time": "19:59",
       "date": "06.11.2026",
-      "odds": "MS1: 2.18 | X: 3.10 | MS2: 2.95"
+      "odds": "MS1: 0.00 | X: 0.00 | MS2: 0.00"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Gaziantep BŞB",
+      "away": "Kasımpaşa",
+      "time": "19:59",
+      "date": "06.11.2026",
+      "odds": "MS1: 0.00 | X: 41.00 | MS2: 0.00"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -24,15 +24,7 @@
       "away": "Bursaspor",
       "time": "20:00",
       "date": "06.11.2026",
-      "odds": "MS1: 3.70 | X: 3.55 | MS2: 1.75"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Gaziantep BŞB",
-      "away": "Kasımpaşa",
-      "time": "20:00",
-      "date": "06.11.2026",
-      "odds": "MS1: 2.60 | X: 3.30 | MS2: 2.65"
+      "odds": "MS1: 6.50 | X: 1.35 | MS2: 4.60"
     },
     {
       "league": "Futbol > Turkey > U19 Ligi",
@@ -152,7 +144,7 @@
       "away": "Fenerbahçe",
       "time": "16:00",
       "date": "08.11.2026",
-      "odds": "MS1: 4.80 | X: 4.10 | MS2: 1.63"
+      "odds": "MS1: 4.30 | X: 3.90 | MS2: 1.74"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -160,7 +152,7 @@
       "away": "Kayserispor",
       "time": "16:00",
       "date": "08.11.2026",
-      "odds": "MS1: 3.35 | X: 3.25 | MS2: 1.97"
+      "odds": "MS1: 3.60 | X: 3.30 | MS2: 1.86"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",

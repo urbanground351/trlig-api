@@ -1,30 +1,38 @@
 {
-  "last_updated": "2026-11-07T17:17:17.908342",
+  "last_updated": "2026-11-08T03:54:13.709275",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
     {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Pendikspor",
-      "away": "İstanbulspor",
-      "time": "18:59",
-      "date": "07.11.2026",
-      "odds": "MS1: 2.23 | X: 2.23 | MS2: 4.60"
+      "league": "Futbol > Turkey > 2. Lig",
+      "home": "Sebat Genclik Spor",
+      "away": "Kastamonuspor",
+      "time": "13:00",
+      "date": "08.11.2026",
+      "odds": "MS1: 1.14 | X: 6.50 | MS2: 10.50"
     },
     {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Galatasaray",
-      "away": "Amed Sportif Faaliyetler",
-      "time": "19:02",
-      "date": "07.11.2026",
-      "odds": "MS1: 1.03 | X: 13.00 | MS2: 36.00"
+      "league": "Futbol > Turkey > 2. Lig",
+      "home": "Hatayspor",
+      "away": "Somaspor",
+      "time": "13:00",
+      "date": "08.11.2026",
+      "odds": "MS1: 2.18 | X: 3.20 | MS2: 2.80"
     },
     {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Göztepe",
-      "away": "İstanbul Büyükşehir Belediyespor",
-      "time": "19:06",
-      "date": "07.11.2026",
-      "odds": "MS1: 2.38 | X: 2.60 | MS2: 3.35"
+      "league": "Futbol > Turkey > 2. Lig",
+      "home": "Adana Demirspor",
+      "away": "Ankaraspor",
+      "time": "13:00",
+      "date": "08.11.2026",
+      "odds": "MS1: 5.25 | X: 4.40 | MS2: 1.42"
+    },
+    {
+      "league": "Futbol > Turkey > 2. Lig",
+      "home": "Ankara Demirspor",
+      "away": "Erzincanspor",
+      "time": "13:00",
+      "date": "08.11.2026",
+      "odds": "MS1: 2.07 | X: 3.30 | MS2: 3.00"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -41,6 +49,14 @@
       "time": "13:30",
       "date": "08.11.2026",
       "odds": "MS1: 1.98 | X: 3.50 | MS2: 3.65"
+    },
+    {
+      "league": "Futbol > Turkey > U19 Ligi",
+      "home": "Alanyaspor U19",
+      "away": "Trabzonspor U19",
+      "time": "14:30",
+      "date": "08.11.2026",
+      "odds": "MS1: 4.80 | X: 4.10 | MS2: 1.48"
     },
     {
       "league": "Futbol > Turkey > 2. Lig",
@@ -72,7 +88,7 @@
       "away": "Kayserispor",
       "time": "16:00",
       "date": "08.11.2026",
-      "odds": "MS1: 3.60 | X: 3.30 | MS2: 1.86"
+      "odds": "MS1: 3.90 | X: 3.40 | MS2: 1.75"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -80,7 +96,7 @@
       "away": "Trabzonspor",
       "time": "18:30",
       "date": "08.11.2026",
-      "odds": "MS1: 4.70 | X: 3.85 | MS2: 1.70"
+      "odds": "MS1: 4.90 | X: 3.90 | MS2: 1.65"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",

@@ -1,14 +1,22 @@
 {
-  "last_updated": "2026-11-10T05:38:57.463455",
+  "last_updated": "2026-11-10T19:11:45.540894",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
     {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Süper Lig 2026/2027",
-      "away": "Deplasman",
+      "league": "Futbol > Turkey > 3. Ligi",
+      "home": "Kirsehir Belediye Spor",
+      "away": "Mazidagi Fosfat Spor",
       "time": "13:00",
-      "date": "23.05.2027",
-      "odds": "Oran Yok"
+      "date": "11.11.2026",
+      "odds": "MS1: 2.33 | X: 3.15 | MS2: 2.48"
+    },
+    {
+      "league": "Futbol > Turkey > 2. Lig",
+      "home": "Adana 1954 FK",
+      "away": "Trabzon Karadenizspor AS",
+      "time": "13:00",
+      "date": "14.11.2026",
+      "odds": "MS1: 1.49 | X: 3.95 | MS2: 5.00"
     }
   ]
 }

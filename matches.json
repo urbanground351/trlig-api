@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T19:08:31.108004",
+  "last_updated": "2026-11-12T05:23:39.366449",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
     {
@@ -12,14 +12,6 @@
     },
     {
       "league": "Futbol > Turkey > 2. Lig",
-      "home": "Adana 1954 FK",
-      "away": "Trabzon Karadenizspor AS",
-      "time": "13:00",
-      "date": "14.11.2026",
-      "odds": "MS1: 1.49 | X: 3.95 | MS2: 5.00"
-    },
-    {
-      "league": "Futbol > Turkey > 2. Lig",
       "home": "Ankaraspor",
       "away": "Aliaga Futbol",
       "time": "13:00",
@@ -28,11 +20,91 @@
     },
     {
       "league": "Futbol > Turkey > 2. Lig",
+      "home": "Adana 1954 FK",
+      "away": "Trabzon Karadenizspor AS",
+      "time": "13:00",
+      "date": "14.11.2026",
+      "odds": "MS1: 1.49 | X: 3.95 | MS2: 5.00"
+    },
+    {
+      "league": "Futbol > Turkey > 2. Lig",
       "home": "Somaspor",
       "away": "Arnavutkoy Belediyesi Genclik VE Spor",
       "time": "15:30",
       "date": "14.11.2026",
       "odds": "MS1: 1.72 | X: 3.50 | MS2: 3.90"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Gençlerbirliği",
+      "away": "Gaziantep BŞB",
+      "time": "13:30",
+      "date": "21.11.2026",
+      "odds": "MS1: 2.23 | X: 3.40 | MS2: 3.10"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Amed Sportif Faaliyetler",
+      "away": "Çaykur Rizespor",
+      "time": "16:00",
+      "date": "21.11.2026",
+      "odds": "MS1: 1.79 | X: 3.85 | MS2: 4.00"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Galatasaray",
+      "away": "Samsunspor",
+      "time": "16:00",
+      "date": "21.11.2026",
+      "odds": "MS1: 1.21 | X: 6.25 | MS2: 10.50"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Kocaelispor",
+      "away": "Fenerbahçe",
+      "time": "19:00",
+      "date": "21.11.2026",
+      "odds": "MS1: 5.75 | X: 4.10 | MS2: 1.55"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Erzurumspor",
+      "away": "Göztepe",
+      "time": "13:30",
+      "date": "22.11.2026",
+      "odds": "MS1: 2.85 | X: 3.25 | MS2: 2.48"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Kasımpaşa",
+      "away": "Alanyaspor",
+      "time": "16:00",
+      "date": "22.11.2026",
+      "odds": "MS1: 2.02 | X: 3.35 | MS2: 3.65"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Konyaspor",
+      "away": "Beşiktaş",
+      "time": "16:00",
+      "date": "22.11.2026",
+      "odds": "MS1: 5.10 | X: 4.00 | MS2: 1.62"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Trabzonspor",
+      "away": "Eyüpspor",
+      "time": "19:00",
+      "date": "22.11.2026",
+      "odds": "MS1: 1.14 | X: 7.00 | MS2: 15.00"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "İstanbul Büyükşehir Belediyespor",
+      "away": "Çorum Belediyespor",
+      "time": "20:00",
+      "date": "23.11.2026",
+      "odds": "MS1: 2.04 | X: 3.65 | MS2: 3.30"
     }
   ]
 }

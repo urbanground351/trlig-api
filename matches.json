@@ -1,111 +1,7 @@
 {
-  "last_updated": "2026-11-14T04:33:42.777819",
+  "last_updated": "2026-11-14T17:33:43.366685",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
-    {
-      "league": "Futbol > Turkey > 1. Futbol Ligi (W)",
-      "home": "Galatasaray SK (W)",
-      "away": "Kayseri Kadın FK (W)",
-      "time": "13:00",
-      "date": "14.11.2026",
-      "odds": "MS1: 1.03 | X: 13.00 | MS2: 30.00"
-    },
-    {
-      "league": "Futbol > Turkey > 2. Lig",
-      "home": "68 Yeni Aksaray",
-      "away": "Hatayspor",
-      "time": "13:00",
-      "date": "14.11.2026",
-      "odds": "MS1: 1.25 | X: 5.20 | MS2: 7.50"
-    },
-    {
-      "league": "Futbol > Turkey > 2. Lig",
-      "home": "Adana 1954 FK",
-      "away": "Trabzon Karadenizspor AS",
-      "time": "13:00",
-      "date": "14.11.2026",
-      "odds": "MS1: 1.60 | X: 3.65 | MS2: 4.40"
-    },
-    {
-      "league": "Futbol > Turkey > 2. Lig",
-      "home": "Kahramanmaraş İstiklal Spor",
-      "away": "Fethiyespor",
-      "time": "13:00",
-      "date": "14.11.2026",
-      "odds": "MS1: 1.52 | X: 3.85 | MS2: 5.00"
-    },
-    {
-      "league": "Futbol > Turkey > 2. Lig",
-      "home": "Sebat Genclik Spor",
-      "away": "Adana Demirspor",
-      "time": "13:00",
-      "date": "14.11.2026",
-      "odds": "MS1: 1.06 | X: 8.50 | MS2: 14.00"
-    },
-    {
-      "league": "Futbol > Turkey > 2. Lig",
-      "home": "Inegol Kafkas Genclikspor",
-      "away": "Corluspor 1947",
-      "time": "13:00",
-      "date": "14.11.2026",
-      "odds": "MS1: 2.70 | X: 3.35 | MS2: 2.20"
-    },
-    {
-      "league": "Futbol > Turkey > 2. Lig",
-      "home": "Ankaraspor",
-      "away": "Aliaga Futbol",
-      "time": "13:00",
-      "date": "14.11.2026",
-      "odds": "MS1: 3.00 | X: 3.35 | MS2: 1.98"
-    },
-    {
-      "league": "Futbol > Turkey > 2. Lig",
-      "home": "Kastamonuspor",
-      "away": "Sanliurfaspor",
-      "time": "13:00",
-      "date": "14.11.2026",
-      "odds": "MS1: 12.50 | X: 7.50 | MS2: 1.10"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Futbol Ligi (W)",
-      "home": "Fomget Gençlik ve Spor (W)",
-      "away": "Beşiktaş (W)",
-      "time": "14:00",
-      "date": "14.11.2026",
-      "odds": "MS1: 2.48 | X: 3.20 | MS2: 2.43"
-    },
-    {
-      "league": "Futbol > Turkey > 2. Lig",
-      "home": "Kütahyaspor",
-      "away": "Ankaragücü",
-      "time": "14:00",
-      "date": "14.11.2026",
-      "odds": "MS1: 2.00 | X: 3.25 | MS2: 3.10"
-    },
-    {
-      "league": "Futbol > Turkey > 2. Lig",
-      "home": "Kirklarelispor",
-      "away": "Inegölspor",
-      "time": "15:00",
-      "date": "14.11.2026",
-      "odds": "MS1: 2.16 | X: 3.35 | MS2: 2.75"
-    },
-    {
-      "league": "Futbol > Turkey > 2. Lig",
-      "home": "Beyoglu Yeni Carsi Futbol",
-      "away": "Serik Belediyespor",
-      "time": "15:00",
-      "date": "14.11.2026",
-      "odds": "MS1: 1.89 | X: 3.50 | MS2: 3.25"
-    },
-    {
-      "league": "Futbol > Turkey > 2. Lig",
-      "home": "Somaspor",
-      "away": "Arnavutkoy Belediyesi Genclik VE Spor",
-      "time": "15:30",
-      "date": "14.11.2026",
-      "odds": "MS1: 1.56 | X: 3.65 | MS2: 4.75"
-    },
     {
       "league": "Futbol > Turkey > 3. Ligi",
       "home": "Bulvarspor",
@@ -121,6 +17,14 @@
       "time": "13:00",
       "date": "18.11.2026",
       "odds": "MS1: 2.08 | X: 3.20 | MS2: 3.05"
+    },
+    {
+      "league": "Futbol > Turkey > 2. Lig",
+      "home": "Inegölspor",
+      "away": "Iskenderun FK",
+      "time": "15:00",
+      "date": "18.11.2026",
+      "odds": "MS1: 1.34 | X: 4.40 | MS2: 6.50"
     },
     {
       "league": "Futbol > Turkey > 2. Lig",

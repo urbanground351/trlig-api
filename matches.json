@@ -1,63 +1,7 @@
 {
-  "last_updated": "2026-11-15T04:22:35.025683",
+  "last_updated": "2026-11-15T18:22:46.764659",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
-    {
-      "league": "Futbol > Turkey > 3. Ligi",
-      "home": "Bulvarspor",
-      "away": "Kucukcekmece Sinop Spor",
-      "time": "13:00",
-      "date": "15.11.2026",
-      "odds": "MS1: 3.80 | X: 3.40 | MS2: 1.70"
-    },
-    {
-      "league": "Futbol > Turkey > 3. Ligi",
-      "home": "Orduspor 1967",
-      "away": "Tuzlaspor",
-      "time": "13:00",
-      "date": "15.11.2026",
-      "odds": "MS1: 2.17 | X: 3.00 | MS2: 2.80"
-    },
-    {
-      "league": "Futbol > Turkey > 3. Ligi",
-      "home": "Alanya Kestelspor",
-      "away": "Denizli İdmanyurdu Güreller SK",
-      "time": "13:00",
-      "date": "15.11.2026",
-      "odds": "MS1: 2.35 | X: 3.10 | MS2: 2.50"
-    },
-    {
-      "league": "Futbol > Turkey > 3. Ligi",
-      "home": "Beykoz Ishakli SF",
-      "away": "Karabuk Idmanyurdu Spor",
-      "time": "15:00",
-      "date": "15.11.2026",
-      "odds": "MS1: 3.40 | X: 3.10 | MS2: 1.87"
-    },
-    {
-      "league": "Futbol > Turkey > 3. Ligi",
-      "home": "Utaş Uşakspor",
-      "away": "Efeler 09 SFK",
-      "time": "15:00",
-      "date": "15.11.2026",
-      "odds": "MS1: 2.05 | X: 3.15 | MS2: 2.90"
-    },
-    {
-      "league": "Futbol > Turkey > 3. Ligi",
-      "home": "Altay Izmir",
-      "away": "Bursa Yildirim Spor",
-      "time": "15:00",
-      "date": "15.11.2026",
-      "odds": "MS1: 3.60 | X: 3.15 | MS2: 1.81"
-    },
-    {
-      "league": "Futbol > Turkey > 3. Ligi",
-      "home": "Balikesirspor",
-      "away": "Anadolu Universitesi",
-      "time": "15:30",
-      "date": "15.11.2026",
-      "odds": "MS1: 1.43 | X: 3.95 | MS2: 5.00"
-    },
     {
       "league": "Futbol > Turkey > 2. Lig",
       "home": "Güzide Gebzespor",
@@ -81,6 +25,14 @@
       "time": "15:30",
       "date": "18.11.2026",
       "odds": "MS1: 2.33 | X: 3.25 | MS2: 2.60"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "76 Igdir Belediyespor",
+      "away": "Ümraniyespor",
+      "time": "20:00",
+      "date": "20.11.2026",
+      "odds": "MS1: 1.78 | X: 3.30 | MS2: 3.95"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",

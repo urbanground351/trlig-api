@@ -1,7 +1,63 @@
 {
-  "last_updated": "2026-11-15T18:22:46.764659",
+  "last_updated": "2026-11-16T04:21:09.727483",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
+    {
+      "league": "Futbol > Turkey > U19 Ligi",
+      "home": "Arnavutkoy Belediyesi Futbol SK U19",
+      "away": "Bursa Yildirimspor U19",
+      "time": "14:00",
+      "date": "16.11.2026",
+      "odds": "MS1: 2.50 | X: 3.45 | MS2: 2.25"
+    },
+    {
+      "league": "Futbol > Turkey > U19 Ligi",
+      "home": "Beyoğlu Yeni Çarşı Spor U19",
+      "away": "Sariyer U19",
+      "time": "14:00",
+      "date": "16.11.2026",
+      "odds": "MS1: 4.00 | X: 4.10 | MS2: 1.58"
+    },
+    {
+      "league": "Futbol > Turkey > U19 Ligi",
+      "home": "Inegol Kafkas Genclikspor U19",
+      "away": "Sakaryaspor U19",
+      "time": "14:00",
+      "date": "16.11.2026",
+      "odds": "MS1: 1.72 | X: 3.70 | MS2: 3.60"
+    },
+    {
+      "league": "Futbol > Turkey > U19 Ligi",
+      "home": "Pendikspor U19",
+      "away": "Erokspor U19",
+      "time": "14:00",
+      "date": "16.11.2026",
+      "odds": "MS1: 2.65 | X: 3.45 | MS2: 2.14"
+    },
+    {
+      "league": "Futbol > Turkey > U19 Ligi",
+      "home": "Bursaspor U19",
+      "away": "Balikesirspor U19",
+      "time": "14:00",
+      "date": "16.11.2026",
+      "odds": "MS1: 1.17 | X: 6.75 | MS2: 8.50"
+    },
+    {
+      "league": "Futbol > Turkey > U19 Ligi",
+      "home": "Ümraniyespor U19",
+      "away": "Istanbulspor U19",
+      "time": "14:00",
+      "date": "16.11.2026",
+      "odds": "MS1: 2.95 | X: 3.20 | MS2: 2.12"
+    },
+    {
+      "league": "Futbol > Turkey > U19 Ligi",
+      "home": "Inegolspor U19",
+      "away": "Bandirmaspor U19",
+      "time": "14:00",
+      "date": "16.11.2026",
+      "odds": "MS1: 2.10 | X: 3.45 | MS2: 2.75"
+    },
     {
       "league": "Futbol > Turkey > 2. Lig",
       "home": "Güzide Gebzespor",
@@ -96,7 +152,7 @@
       "away": "Eyüpspor",
       "time": "19:00",
       "date": "22.11.2026",
-      "odds": "MS1: 1.14 | X: 7.00 | MS2: 15.00"
+      "odds": "MS1: 1.16 | X: 7.50 | MS2: 15.00"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T20:21:16.361945",
+  "last_updated": "2026-11-18T05:33:48.656339",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
     {
@@ -32,7 +32,23 @@
       "away": "Inegol Kafkas Genclikspor",
       "time": "13:00",
       "date": "18.11.2026",
-      "odds": "MS1: 5.00 | X: 3.90 | MS2: 1.49"
+      "odds": "MS1: 5.60 | X: 4.10 | MS2: 1.42"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Futbol Ligi (W)",
+      "home": "Fenerbahçe (W)",
+      "away": "Ünyegucu Futbol Kulubu (W)",
+      "time": "13:00",
+      "date": "18.11.2026",
+      "odds": "MS1: 1.03 | X: 14.00 | MS2: 31.00"
+    },
+    {
+      "league": "Futbol > Turkey > 2. Lig",
+      "home": "Ankara Demirspor",
+      "away": "Orduspor",
+      "time": "13:00",
+      "date": "18.11.2026",
+      "odds": "MS1: 2.48 | X: 3.40 | MS2: 2.38"
     },
     {
       "league": "Futbol > Turkey > 2. Lig",
@@ -68,11 +84,19 @@
     },
     {
       "league": "Futbol > Turkey > 2. Lig",
+      "home": "Arnavutkoy Belediyesi Genclik VE Spor",
+      "away": "68 Yeni Aksaray",
+      "time": "14:00",
+      "date": "18.11.2026",
+      "odds": "MS1: 5.60 | X: 3.70 | MS2: 1.48"
+    },
+    {
+      "league": "Futbol > Turkey > 2. Lig",
       "home": "Ankaragücü",
       "away": "Kirklarelispor",
       "time": "14:00",
       "date": "18.11.2026",
-      "odds": "MS1: 1.45 | X: 4.00 | MS2: 5.50"
+      "odds": "MS1: 1.50 | X: 3.85 | MS2: 5.00"
     },
     {
       "league": "Futbol > Turkey > 2. Lig",
@@ -92,11 +116,27 @@
     },
     {
       "league": "Futbol > Turkey > 2. Lig",
+      "home": "Sanliurfaspor",
+      "away": "Erbaaspor",
+      "time": "15:30",
+      "date": "18.11.2026",
+      "odds": "MS1: 1.40 | X: 4.35 | MS2: 5.60"
+    },
+    {
+      "league": "Futbol > Turkey > 2. Lig",
       "home": "Fethiyespor",
       "away": "Kütahyaspor",
       "time": "15:30",
       "date": "18.11.2026",
-      "odds": "MS1: 3.65 | X: 3.40 | MS2: 1.80"
+      "odds": "MS1: 3.35 | X: 3.30 | MS2: 1.92"
+    },
+    {
+      "league": "Futbol > Turkey > 2. Lig",
+      "home": "Karacabey Belediyespor",
+      "away": "Beyoglu Yeni Carsi Futbol",
+      "time": "15:30",
+      "date": "18.11.2026",
+      "odds": "MS1: 2.70 | X: 3.25 | MS2: 2.23"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -152,7 +192,7 @@
       "away": "Sarıyer S.K.",
       "time": "16:00",
       "date": "21.11.2026",
-      "odds": "MS1: 1.61 | X: 3.50 | MS2: 4.75"
+      "odds": "MS1: 1.54 | X: 3.60 | MS2: 5.20"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",

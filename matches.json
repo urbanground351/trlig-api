@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-11-20T19:30:26.920267",
+  "last_updated": "2026-11-21T05:13:02.129846",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
+    {
+      "league": "Futbol > Turkey > U19 Ligi",
+      "home": "Amed Sportif Faaliyetler U19",
+      "away": "Çaykur Rizespor U19",
+      "time": "12:00",
+      "date": "21.11.2026",
+      "odds": "MS1: 2.00 | X: 3.45 | MS2: 2.95"
+    },
     {
       "league": "Futbol > Turkey > 3. Ligi",
       "home": "Kucukcekmece Sinop Spor",
@@ -11,12 +19,36 @@
       "odds": "MS1: 1.46 | X: 3.45 | MS2: 5.60"
     },
     {
+      "league": "Futbol > Turkey > 3. Ligi",
+      "home": "Inkilapspor",
+      "away": "Yalova Yesilovaspor",
+      "time": "13:00",
+      "date": "21.11.2026",
+      "odds": "MS1: 2.20 | X: 2.90 | MS2: 2.80"
+    },
+    {
+      "league": "Futbol > Turkey > 3. Ligi",
+      "home": "Yaz Sigorta Adaletgucu Spor",
+      "away": "Mazidagi Fosfat Spor",
+      "time": "13:00",
+      "date": "21.11.2026",
+      "odds": "MS1: 2.85 | X: 3.05 | MS2: 2.14"
+    },
+    {
       "league": "Futbol > Turkey > U19 Ligi",
       "home": "Galatasaray U19",
       "away": "Samsunspor U19",
       "time": "13:00",
       "date": "21.11.2026",
       "odds": "MS1: 1.50 | X: 3.85 | MS2: 4.80"
+    },
+    {
+      "league": "Futbol > Turkey > U19 Ligi",
+      "home": "Gençlerbirliği U19",
+      "away": "Gazisehir Gaziantep FK U19",
+      "time": "13:00",
+      "date": "21.11.2026",
+      "odds": "MS1: 1.52 | X: 4.00 | MS2: 4.40"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -43,6 +75,14 @@
       "odds": "MS1: 3.50 | X: 3.35 | MS2: 1.87"
     },
     {
+      "league": "Futbol > Turkey > U19 Ligi",
+      "home": "Kocaelispor U19",
+      "away": "Fenerbahce U19",
+      "time": "15:00",
+      "date": "21.11.2026",
+      "odds": "MS1: 2.12 | X: 3.35 | MS2: 2.75"
+    },
+    {
       "league": "Futbol > Turkey > 1. Lig",
       "home": "Amed Sportif Faaliyetler",
       "away": "Çaykur Rizespor",
@@ -64,7 +104,7 @@
       "away": "Sarıyer S.K.",
       "time": "16:00",
       "date": "21.11.2026",
-      "odds": "MS1: 1.47 | X: 3.90 | MS2: 5.75"
+      "odds": "MS1: 1.40 | X: 4.20 | MS2: 6.25"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -73,6 +113,14 @@
       "time": "19:00",
       "date": "21.11.2026",
       "odds": "MS1: 6.00 | X: 4.10 | MS2: 1.53"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Fatih Karagümrük",
+      "away": "Boluspor",
+      "time": "19:00",
+      "date": "21.11.2026",
+      "odds": "MS1: 1.19 | X: 6.00 | MS2: 9.50"
     },
     {
       "league": "Futbol > Turkey > 2. Lig",

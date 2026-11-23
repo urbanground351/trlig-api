@@ -1,38 +1,14 @@
 {
-  "last_updated": "2026-11-23T05:15:52.522163",
+  "last_updated": "2026-11-23T23:13:49.003268",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Bodrumspor",
-      "away": "Belediye Vanspor",
-      "time": "20:00",
-      "date": "23.11.2026",
-      "odds": "MS1: 2.12 | X: 3.25 | MS2: 2.90"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "İstanbul Büyükşehir Belediyespor",
-      "away": "Çorum Belediyespor",
-      "time": "20:00",
-      "date": "23.11.2026",
-      "odds": "MS1: 1.91 | X: 3.75 | MS2: 3.65"
-    },
     {
       "league": "Futbol > Turkey > 1. Lig",
       "home": "Çaykur Rizespor",
       "away": "Kasımpaşa",
       "time": "20:00",
       "date": "27.11.2026",
-      "odds": "MS1: 1.90 | X: 3.65 | MS2: 3.75"
-    },
-    {
-      "league": "Futbol > Turkey > 1. Lig",
-      "home": "Alanyaspor",
-      "away": "Konyaspor",
-      "time": "20:00",
-      "date": "27.11.2026",
-      "odds": "MS1: 2.43 | X: 3.20 | MS2: 2.95"
+      "odds": "MS1: 1.91 | X: 3.65 | MS2: 3.75"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -44,11 +20,59 @@
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
+      "home": "Alanyaspor",
+      "away": "Konyaspor",
+      "time": "20:00",
+      "date": "27.11.2026",
+      "odds": "MS1: 2.43 | X: 3.15 | MS2: 3.00"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
       "home": "Sarıyer S.K.",
       "away": "İstanbulspor",
       "time": "20:00",
       "date": "27.11.2026",
       "odds": "MS1: 1.78 | X: 3.35 | MS2: 3.90"
+    },
+    {
+      "league": "Futbol > Turkey > 2. Lig",
+      "home": "Serik Belediyespor",
+      "away": "Orduspor",
+      "time": "13:00",
+      "date": "28.11.2026",
+      "odds": "MS1: 3.10 | X: 3.35 | MS2: 1.98"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Sivasspor",
+      "away": "Bodrumspor",
+      "time": "13:30",
+      "date": "28.11.2026",
+      "odds": "MS1: 2.45 | X: 3.10 | MS2: 2.60"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Bandirmaspor",
+      "away": "Batman Petrolspor",
+      "time": "13:30",
+      "date": "28.11.2026",
+      "odds": "MS1: 2.30 | X: 3.20 | MS2: 2.70"
+    },
+    {
+      "league": "Futbol > Turkey > 2. Lig",
+      "home": "Aliaga Futbol",
+      "away": "Kastamonuspor",
+      "time": "15:30",
+      "date": "28.11.2026",
+      "odds": "MS1: 1.06 | X: 8.50 | MS2: 15.00"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Belediye Vanspor",
+      "away": "Bursaspor",
+      "time": "16:00",
+      "date": "28.11.2026",
+      "odds": "MS1: 6.25 | X: 4.10 | MS2: 1.40"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -64,7 +88,15 @@
       "away": "Amed Sportif Faaliyetler",
       "time": "19:00",
       "date": "28.11.2026",
-      "odds": "MS1: 3.25 | X: 3.50 | MS2: 2.12"
+      "odds": "MS1: 3.25 | X: 3.55 | MS2: 2.12"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Muğlaspor",
+      "away": "Mardin Buyuksehir Basak Spor",
+      "time": "19:00",
+      "date": "28.11.2026",
+      "odds": "MS1: 2.95 | X: 3.15 | MS2: 2.16"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -72,7 +104,7 @@
       "away": "Kocaelispor",
       "time": "13:30",
       "date": "29.11.2026",
-      "odds": "MS1: 1.82 | X: 3.60 | MS2: 4.20"
+      "odds": "MS1: 1.82 | X: 3.55 | MS2: 4.30"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -89,6 +121,22 @@
       "time": "19:00",
       "date": "29.11.2026",
       "odds": "MS1: 1.27 | X: 5.60 | MS2: 10.00"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Göztepe",
+      "away": "Trabzonspor",
+      "time": "19:00",
+      "date": "30.11.2026",
+      "odds": "MS1: 3.40 | X: 3.75 | MS2: 2.00"
+    },
+    {
+      "league": "Futbol > Turkey > 1. Lig",
+      "home": "Beşiktaş",
+      "away": "Galatasaray",
+      "time": "21:00",
+      "date": "30.11.2026",
+      "odds": "MS1: 1.91 | X: 3.70 | MS2: 3.40"
     }
   ]
 }

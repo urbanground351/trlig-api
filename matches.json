@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T06:25:42.166454",
+  "last_updated": "2026-11-26T20:49:26.779997",
   "source": "Kambi CDN (Filtresiz Tam Veri)",
   "matches": [
     {
@@ -16,7 +16,7 @@
       "away": "Konyaspor U19",
       "time": "13:00",
       "date": "27.11.2026",
-      "odds": "MS1: 1.85 | X: 3.35 | MS2: 3.45"
+      "odds": "MS1: 2.10 | X: 3.15 | MS2: 2.90"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -40,7 +40,7 @@
       "away": "Konyaspor",
       "time": "20:00",
       "date": "27.11.2026",
-      "odds": "MS1: 2.40 | X: 3.20 | MS2: 2.95"
+      "odds": "MS1: 2.50 | X: 3.20 | MS2: 2.80"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
@@ -164,6 +164,14 @@
     },
     {
       "league": "Futbol > Turkey > 2. Lig",
+      "home": "Arnavutkoy Belediyesi Genclik VE Spor",
+      "away": "Musspor",
+      "time": "13:00",
+      "date": "29.11.2026",
+      "odds": "MS1: 12.00 | X: 6.00 | MS2: 1.15"
+    },
+    {
+      "league": "Futbol > Turkey > 2. Lig",
       "home": "Trabzon Karadenizspor AS",
       "away": "Kirklarelispor",
       "time": "13:00",
@@ -196,14 +204,6 @@
     },
     {
       "league": "Futbol > Turkey > 2. Lig",
-      "home": "Arnavutkoy Belediyesi Genclik VE Spor",
-      "away": "Musspor",
-      "time": "15:00",
-      "date": "29.11.2026",
-      "odds": "MS1: 12.00 | X: 6.00 | MS2: 1.15"
-    },
-    {
-      "league": "Futbol > Turkey > 2. Lig",
       "home": "Güzide Gebzespor",
       "away": "Adana Demirspor",
       "time": "15:00",
@@ -232,7 +232,7 @@
       "away": "İstanbul Büyükşehir Belediyespor",
       "time": "16:00",
       "date": "29.11.2026",
-      "odds": "MS1: 5.80 | X: 4.25 | MS2: 1.52"
+      "odds": "MS1: 6.25 | X: 4.40 | MS2: 1.48"
     },
     {
       "league": "Futbol > Turkey > 1. Lig",
